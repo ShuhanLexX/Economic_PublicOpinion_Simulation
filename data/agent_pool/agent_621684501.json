@@ -1,0 +1,155 @@
+{
+  "agent_id": 621684501,
+  "demographic": {
+    "pid": {
+      "value": 621684501.0
+    },
+    "gender": {
+      "value": 0.0,
+      "label": "女"
+    },
+    "age": {
+      "value": 74.0
+    },
+    "w01": {
+      "value": 4.0,
+      "label": "初中"
+    },
+    "marriage_last": {
+      "value": 5.0,
+      "label": "丧偶"
+    },
+    "qea0": {
+      "value": 5.0,
+      "label": "丧偶"
+    }
+  },
+  "economic": {
+    "income": {
+      "value": 30000.0
+    },
+    "qm3012": {
+      "value": 5.0
+    },
+    "qg11": {
+      "value": 3000.0
+    },
+    "qg12": {
+      "value": 30000.0
+    },
+    "pd5total": {
+      "value": 0.0
+    },
+    "metotal": {
+      "value": 3500.0
+    },
+    "qg401": {
+      "value": 4.0,
+      "label": "比较满意"
+    },
+    "qg406": {
+      "value": 4.0,
+      "label": "比较满意"
+    }
+  },
+  "family": {
+    "fid20": {
+      "value": 621684.0
+    },
+    "fml_count": {
+      "value": 4.0
+    },
+    "child16n": {
+      "value": 0.0
+    },
+    "qm803": {
+      "value": 5.0
+    },
+    "qm1104": {
+      "value": 5.0,
+      "label": "十分同意"
+    },
+    "qq9010n": {
+      "value": 1.5
+    }
+  },
+  "location": {
+    "urban20": {
+      "value": 1.0,
+      "label": "城镇"
+    },
+    "provcd20": {
+      "value": 62.0
+    },
+    "province": {
+      "value": "62.0",
+      "label": "甘肃"
+    }
+  },
+  "psychological": {
+    "qm2016": {
+      "value": 8.0
+    },
+    "qn12012": {
+      "value": 5.0,
+      "label": "非常满意"
+    },
+    "qn416": {
+      "value": 4.0,
+      "label": "大多数时候有（5-7天）"
+    },
+    "qn406": {
+      "value": 1.0,
+      "label": "几乎没有（不到一天）"
+    }
+  },
+  "social": {
+    "qn1001": {
+      "value": 1.0,
+      "label": "大多数人是可以信任的"
+    },
+    "qn10021": {
+      "value": 10.0
+    },
+    "qn10022": {
+      "value": 8.0
+    },
+    "qn10024": {
+      "value": 1.0
+    },
+    "qu952": {
+      "value": 3.0
+    }
+  },
+  "enriched": {
+    "life_experience": {
+      "education": "自小在甘肃省城镇地区长大，由于家庭条件有限，未能继续深造，初中毕业后便开始工作。",
+      "work": "曾从事过多种工作，包括工厂流水线工人、商店售货员等，凭借勤奋和努力，积累了丰富的工作经验。",
+      "family": "结婚后育有子女，但不幸丧偶，独自抚养子女成人。现在子女都已独立，家庭关系和睦。",
+      "retirement": "退休后，生活相对自由，但仍积极参与社区活动，帮助邻居，享受晚年生活。"
+    },
+    "personality": {
+      "character": "性格温和、善良，乐于助人，对待生活态度积极。",
+      "interests": "喜欢阅读、养花、做手工等，生活节奏慢，享受平淡的生活。",
+      "values": "重视家庭，注重子女教育，认为生活简单快乐最为重要。"
+    },
+    "life_pressure": {
+      "work": "虽然退休，但偶尔会做一些兼职工作以增加收入，工作压力不大。",
+      "family": "家庭关系和谐，子女独立，家庭压力较小。",
+      "economic": "收入稳定，但面临医疗、养老等长期经济压力。"
+    },
+    "social_class": {
+      "income": "年收入30000元，属于中等收入水平。",
+      "education": "初中教育程度，在社会阶层中属于中下。",
+      "occupation": "退休人员，无正式职业，社会地位中等偏下。"
+    },
+    "consumption_habits": {
+      "methods": "消费习惯较为理性，注重性价比，倾向于购买品牌产品。",
+      "preferences": "偏好购买实用耐用的商品，对于非必需品消费较为谨慎。"
+    },
+    "voucher_attitude": {
+      "views": "认为政府发放消费券政策有助于刺激消费，缓解经济压力。",
+      "usage_willingness": "愿意使用消费券，但更倾向于购买必需品和日常用品。"
+    }
+  }
+}

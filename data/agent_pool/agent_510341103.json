@@ -1,0 +1,155 @@
+{
+  "agent_id": 510341103,
+  "demographic": {
+    "pid": {
+      "value": 510341103.0
+    },
+    "gender": {
+      "value": 1.0,
+      "label": "男"
+    },
+    "age": {
+      "value": 32.0
+    },
+    "w01": {
+      "value": 4.0,
+      "label": "初中"
+    },
+    "marriage_last": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    },
+    "qea0": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    }
+  },
+  "economic": {
+    "income": {
+      "value": 12000.0
+    },
+    "qm3012": {
+      "value": 5.0
+    },
+    "qg11": {
+      "value": 3000.0
+    },
+    "qg12": {
+      "value": 12000.0
+    },
+    "pd5total": {
+      "value": 0.0
+    },
+    "metotal": {
+      "value": 0.0
+    },
+    "qg401": {
+      "value": 4.0,
+      "label": "比较满意"
+    },
+    "qg406": {
+      "value": 4.0,
+      "label": "比较满意"
+    }
+  },
+  "family": {
+    "fid20": {
+      "value": 510341.0
+    },
+    "fml_count": {
+      "value": 6.0
+    },
+    "child16n": {
+      "value": 3.0
+    },
+    "qm803": {
+      "value": 5.0
+    },
+    "qm1104": {
+      "value": 3.0,
+      "label": "中立"
+    },
+    "qq9010n": {
+      "value": 1.0
+    }
+  },
+  "location": {
+    "urban20": {
+      "value": 0.0,
+      "label": "乡村"
+    },
+    "provcd20": {
+      "value": 51.0
+    },
+    "province": {
+      "value": "51.0",
+      "label": "四川"
+    }
+  },
+  "psychological": {
+    "qm2016": {
+      "value": 5.0
+    },
+    "qn12012": {
+      "value": 4.0,
+      "label": "满意"
+    },
+    "qn416": {
+      "value": 3.0,
+      "label": "经常有（3-4天）"
+    },
+    "qn406": {
+      "value": 2.0,
+      "label": "有些时候（1-2天）"
+    }
+  },
+  "social": {
+    "qn1001": {
+      "value": 1.0,
+      "label": "大多数人是可以信任的"
+    },
+    "qn10021": {
+      "value": 10.0
+    },
+    "qn10022": {
+      "value": 7.0
+    },
+    "qn10024": {
+      "value": 1.0
+    },
+    "qu952": {
+      "value": 2.0
+    }
+  },
+  "enriched": {
+    "life_experience": {
+      "education": "在四川省乡村地区完成初中教育，因家庭经济条件有限，未能继续升学。",
+      "work": "毕业后，由于缺乏专业技能和学历，主要从事体力劳动工作，如农业、建筑工地等，工作地点不固定。",
+      "family": "结婚后与妻子一同回到乡村居住，家庭主要收入来源依赖农业和丈夫的临时工作。有三个子女，家庭结构较为紧凑，日常家庭事务共同分担。"
+    },
+    "personality": {
+      "characteristics": "勤劳、朴实、负责任，对家庭有强烈的责任感。",
+      "interests": "喜欢听乡村音乐，喜欢在闲暇时间进行简单的家庭娱乐活动，如打牌、聊天。",
+      "values": "重视家庭和亲情，认为勤劳和诚实是人生的重要价值观。"
+    },
+    "life_pressure": {
+      "work": "工作不稳定，收入难以预测，有时需要长时间工作以维持家庭生计。",
+      "family": "子女教育费用、家庭医疗支出等经济压力较大，需要精打细算。",
+      "financial": "年收入有限，难以满足家庭日益增长的需求，对未来经济状况感到担忧。"
+    },
+    "social_class": {
+      "income": "年收入12000元，属于低收入群体。",
+      "education": "初中教育程度，社会认可度不高。",
+      "occupation": "体力劳动者，职业地位较低。",
+      "overall": "根据收入、教育和职业等因素评估，属于农村低收入阶层。"
+    },
+    "consumption_habits": {
+      "spending_patterns": "消费习惯较为节俭，优先考虑基本生活需求。",
+      "preferences": "偏好购买价格实惠、性价比高的商品，较少购买非必需品。"
+    },
+    "voucher_attitude": {
+      "view": "认为消费券能够一定程度上减轻家庭经济压力，对政策持积极态度。",
+      "usage_willingness": "愿意使用消费券购买生活必需品，提高生活便利性。"
+    }
+  }
+}

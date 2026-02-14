@@ -1,0 +1,155 @@
+{
+  "agent_id": 450224102,
+  "demographic": {
+    "pid": {
+      "value": 450224102.0
+    },
+    "gender": {
+      "value": 0.0,
+      "label": "女"
+    },
+    "age": {
+      "value": 76.0
+    },
+    "w01": {
+      "value": 4.0,
+      "label": "初中"
+    },
+    "marriage_last": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    },
+    "qea0": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    }
+  },
+  "economic": {
+    "income": {
+      "value": 30000.0
+    },
+    "qm3012": {
+      "value": 5.0
+    },
+    "qg11": {
+      "value": 3000.0
+    },
+    "qg12": {
+      "value": 30000.0
+    },
+    "pd5total": {
+      "value": 0.0
+    },
+    "metotal": {
+      "value": 0.0
+    },
+    "qg401": {
+      "value": 5.0,
+      "label": "非常满意"
+    },
+    "qg406": {
+      "value": 5.0,
+      "label": "非常满意"
+    }
+  },
+  "family": {
+    "fid20": {
+      "value": 450224.0
+    },
+    "fml_count": {
+      "value": 6.0
+    },
+    "child16n": {
+      "value": 1.0
+    },
+    "qm803": {
+      "value": 5.0
+    },
+    "qm1104": {
+      "value": 5.0,
+      "label": "十分同意"
+    },
+    "qq9010n": {
+      "value": 6.0
+    }
+  },
+  "location": {
+    "urban20": {
+      "value": 0.0,
+      "label": "乡村"
+    },
+    "provcd20": {
+      "value": 45.0
+    },
+    "province": {
+      "value": "45.0",
+      "label": "广西"
+    }
+  },
+  "psychological": {
+    "qm2016": {
+      "value": -1.0,
+      "label": "不知道"
+    },
+    "qn12012": {
+      "value": 5.0,
+      "label": "非常满意"
+    },
+    "qn416": {
+      "value": 2.0,
+      "label": "有些时候（1-2天）"
+    },
+    "qn406": {
+      "value": 3.0,
+      "label": "经常有（3-4天）"
+    }
+  },
+  "social": {
+    "qn1001": {
+      "value": -1.0,
+      "label": "不知道"
+    },
+    "qn10021": {
+      "value": 10.0
+    },
+    "qn10022": {
+      "value": 10.0
+    },
+    "qn10024": {
+      "value": 0.0
+    },
+    "qu952": {
+      "value": 3.0
+    }
+  },
+  "enriched": {
+    "life_experience": {
+      "education": "由于家庭经济条件有限，她在初中毕业后便辍学，开始了劳动生涯。",
+      "work": "她在当地一家农场工作多年，主要负责种植和收割农作物。随着年岁的增长，她转而从事家务劳动和照顾孙辈。",
+      "family_life": "她与丈夫结婚多年，育有一子。随着子女成家立业，她开始帮助照顾孙子，并承担家庭的一些日常事务。"
+    },
+    "personality": {
+      "character_traits": "她性格坚韧，勤劳节俭，对家庭充满责任感。",
+      "interests": "她喜欢在闲暇时与邻居聊天，关心村庄的新闻和活动。",
+      "values": "她重视家庭和谐，认为勤劳和诚实是生活的基石。"
+    },
+    "life_pressure": {
+      "work": "随着年龄的增长，她开始感到体力不支，担心无法胜任繁重的体力劳动。",
+      "family": "她需要照顾孙子，同时还要处理家庭的一些经济问题，如子女的教育费用。",
+      "economic": "尽管她的年收入稳定，但她仍然担心未来可能的经济压力，尤其是医疗和养老问题。"
+    },
+    "social_class": {
+      "income": "她的年收入虽然达到30000元，但在乡村地区仍属于中等偏下水平。",
+      "education": "由于教育程度不高，她的社会地位相对较低。",
+      "occupation": "作为家庭主妇和孙辈的照顾者，她的职业地位不高。"
+    },
+    "consumption_habits": {
+      "spending_patterns": "她的消费习惯较为保守，倾向于购买性价比高的商品。",
+      "preferences": "她喜欢购买当地的农产品，如大米、蔬菜等。"
+    },
+    "voucher_attitude": {
+      "policy_view": "她认为政府发放消费券是帮助农民度过难关的好方法。",
+      "usage_intention": "如果有机会，她愿意使用消费券购买必需品，以减轻家庭的经济负担。"
+    }
+  }
+}

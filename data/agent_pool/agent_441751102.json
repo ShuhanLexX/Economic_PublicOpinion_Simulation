@@ -1,0 +1,155 @@
+{
+  "agent_id": 441751102,
+  "demographic": {
+    "pid": {
+      "value": 441751102.0
+    },
+    "gender": {
+      "value": 0.0,
+      "label": "女"
+    },
+    "age": {
+      "value": 57.0
+    },
+    "w01": {
+      "value": 4.0,
+      "label": "初中"
+    },
+    "marriage_last": {
+      "value": 5.0,
+      "label": "丧偶"
+    },
+    "qea0": {
+      "value": 5.0,
+      "label": "丧偶"
+    }
+  },
+  "economic": {
+    "income": {
+      "value": 3600.0
+    },
+    "qm3012": {
+      "value": 5.0
+    },
+    "qg11": {
+      "value": 300.0
+    },
+    "qg12": {
+      "value": 3600.0
+    },
+    "pd5total": {
+      "value": 0.0
+    },
+    "metotal": {
+      "value": 0.0
+    },
+    "qg401": {
+      "value": 3.0,
+      "label": "一般"
+    },
+    "qg406": {
+      "value": 3.0,
+      "label": "一般"
+    }
+  },
+  "family": {
+    "fid20": {
+      "value": 441751.0
+    },
+    "fml_count": {
+      "value": 5.0
+    },
+    "child16n": {
+      "value": 2.0
+    },
+    "qm803": {
+      "value": 5.0
+    },
+    "qm1104": {
+      "value": 5.0,
+      "label": "十分同意"
+    },
+    "qq9010n": {
+      "value": 0.0
+    }
+  },
+  "location": {
+    "urban20": {
+      "value": 1.0,
+      "label": "城镇"
+    },
+    "provcd20": {
+      "value": 44.0
+    },
+    "province": {
+      "value": "44.0",
+      "label": "广东"
+    }
+  },
+  "psychological": {
+    "qm2016": {
+      "value": 5.0
+    },
+    "qn12012": {
+      "value": 3.0,
+      "label": "一般"
+    },
+    "qn416": {
+      "value": 1.0,
+      "label": "几乎没有（不到一天）"
+    },
+    "qn406": {
+      "value": 2.0,
+      "label": "有些时候（1-2天）"
+    }
+  },
+  "social": {
+    "qn1001": {
+      "value": 1.0,
+      "label": "大多数人是可以信任的"
+    },
+    "qn10021": {
+      "value": 5.0
+    },
+    "qn10022": {
+      "value": 5.0
+    },
+    "qn10024": {
+      "value": 2.0
+    },
+    "qu952": {
+      "value": 4.0
+    }
+  },
+  "enriched": {
+    "life_experience": {
+      "education": "在广东省城镇地区接受初中教育，因家庭经济原因未能继续升学。",
+      "work": "曾从事过制造业、服务业等不同行业的工作，由于技能和学历限制，工作稳定性较差。",
+      "family": "结婚后育有2名子女，丈夫因病去世后，独自承担起家庭重担，同时照顾年迈的父母和年幼的子女。"
+    },
+    "personality": {
+      "character": "性格坚韧，富有责任感，面对困难时能保持乐观态度。",
+      "interests": "喜欢种植花草，阅读小说，业余时间还会做些手工活。",
+      "values": "重视家庭，注重孩子的教育，认为勤劳节俭是传统美德。"
+    },
+    "life_pressure": {
+      "work": "工作压力主要来自于收入不稳定，以及对未来职业发展的不确定性。",
+      "family": "家庭压力来自于照顾年迈父母和年幼子女的责任，以及维持家庭基本生活需求。",
+      "financial": "经济压力明显，月收入仅能维持基本生活，难以应对突发情况。"
+    },
+    "social_class": {
+      "income": "年收入3600元，属于低收入群体。",
+      "education": "初中教育程度，社会认可度较低。",
+      "occupation": "服务业或制造业工人，职业稳定性较差。",
+      "assessment": "根据收入、教育、职业等因素，评估为社会地位较低的中产阶级边缘群体。"
+    },
+    "consumption_habits": {
+      "spending_patterns": "消费习惯较为节俭，注重性价比，倾向于购买打折商品。",
+      "preferences": "偏好购买实用性强的商品，如食品、衣物等，对电子产品和娱乐活动消费较少。"
+    },
+    "voucher_attitude": {
+      "view": "认为政府发放消费券是刺激消费、缓解经济压力的有效措施。",
+      "intention": "愿意使用消费券，但更倾向于将其用于购买必需品，以减轻生活负担。"
+    }
+  }
+}

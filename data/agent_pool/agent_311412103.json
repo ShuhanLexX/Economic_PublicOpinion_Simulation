@@ -1,0 +1,164 @@
+{
+  "agent_id": 311412103,
+  "demographic": {
+    "pid": {
+      "value": 311412103.0
+    },
+    "gender": {
+      "value": 1.0,
+      "label": "男"
+    },
+    "age": {
+      "value": 22.0
+    },
+    "w01": {
+      "value": 6.0,
+      "label": "大专"
+    },
+    "marriage_last": {
+      "value": 1.0,
+      "label": "未婚"
+    },
+    "qea0": {
+      "value": 1.0,
+      "label": "未婚"
+    }
+  },
+  "economic": {
+    "income": {
+      "value": 62000.0
+    },
+    "qm3012": {
+      "value": 5.0
+    },
+    "qg11": {
+      "value": 4500.0
+    },
+    "qg12": {
+      "value": 22000.0
+    },
+    "pd5total": {
+      "value": 0.0
+    },
+    "metotal": {
+      "value": 0.0
+    },
+    "qg401": {
+      "value": 4.0,
+      "label": "比较满意"
+    },
+    "qg406": {
+      "value": 3.0,
+      "label": "一般"
+    }
+  },
+  "family": {
+    "fid20": {
+      "value": 567599.0
+    },
+    "fml_count": {
+      "value": 1.0
+    },
+    "child16n": {
+      "value": 1.0
+    },
+    "qm803": {
+      "value": 5.0
+    },
+    "qm1104": {
+      "value": 3.0,
+      "label": "中立"
+    },
+    "qq9010n": {
+      "value": 1.0
+    }
+  },
+  "location": {
+    "urban20": {
+      "value": 1.0,
+      "label": "城镇"
+    },
+    "provcd20": {
+      "value": 34.0
+    },
+    "province": {
+      "value": "34.0",
+      "label": "安徽"
+    }
+  },
+  "psychological": {
+    "qm2016": {
+      "value": 7.0
+    },
+    "qn12012": {
+      "value": 4.0,
+      "label": "满意"
+    },
+    "qn416": {
+      "value": 3.0,
+      "label": "经常有（3-4天）"
+    },
+    "qn406": {
+      "value": 1.0,
+      "label": "几乎没有（不到一天）"
+    }
+  },
+  "social": {
+    "qn1001": {
+      "value": 5.0,
+      "label": "要越小心越好"
+    },
+    "qn10021": {
+      "value": 10.0
+    },
+    "qn10022": {
+      "value": 8.0
+    },
+    "qn10024": {
+      "value": 5.0
+    },
+    "qu952": {
+      "value": 3.0
+    }
+  },
+  "enriched": {
+    "life_experience": {
+      "education": {
+        "high_school": "就读于安徽省某城镇中学，成绩中等",
+        "college": "就读于某大专院校，专业为市场营销"
+      },
+      "work": {
+        "first_job": "毕业后在一家小型广告公司担任市场助理，负责市场调研和活动策划",
+        "current_job": "目前在某中型企业担任市场专员，负责品牌推广和客户关系维护"
+      },
+      "family": {
+        "marital_status": "未婚",
+        "children": "有一个16岁以下的女儿，由母亲照顾"
+      }
+    },
+    "personality": {
+      "characteristics": "性格内向，细心，善于沟通，有较强的责任心",
+      "interests": "喜欢阅读、电影和体育运动，尤其喜欢篮球和羽毛球",
+      "values": "重视家庭，尊重他人，追求个人成长和职业发展"
+    },
+    "life_pressure": {
+      "work": "工作压力大，需要经常加班，有时感到疲惫",
+      "family": "家庭压力较小，主要来源于对女儿的教育和未来规划",
+      "economic": "经济压力适中，收入稳定，但储蓄有限，希望提高生活水平"
+    },
+    "social_class": {
+      "income": "年收入62000元，属于中等收入水平",
+      "education": "大专学历，具有一定的专业知识和技能",
+      "occupation": "市场专员，职业发展空间中等",
+      "social_status": "根据收入、教育、职业等因素评估，属于中等社会阶层"
+    },
+    "consumption_habits": {
+      "spending_patterns": "消费较为理性，注重性价比，倾向于购买品牌商品",
+      "preferences": "喜欢网购，对电子产品和时尚品牌有一定兴趣"
+    },
+    "voucher_attitude": {
+      "policy_view": "认为政府发放消费券政策有助于刺激消费，促进经济增长",
+      "usage_willingness": "愿意使用消费券，但更倾向于用于购买必需品和日常消费"
+    }
+  }
+}

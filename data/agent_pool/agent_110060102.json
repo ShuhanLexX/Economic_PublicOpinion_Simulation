@@ -1,0 +1,155 @@
+{
+  "agent_id": 110060102,
+  "demographic": {
+    "pid": {
+      "value": 110060102.0
+    },
+    "gender": {
+      "value": 0.0,
+      "label": "女"
+    },
+    "age": {
+      "value": 70.0
+    },
+    "w01": {
+      "value": 4.0,
+      "label": "初中"
+    },
+    "marriage_last": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    },
+    "qea0": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    }
+  },
+  "economic": {
+    "income": {
+      "value": 30000.0
+    },
+    "qm3012": {
+      "value": 5.0
+    },
+    "qg11": {
+      "value": 3000.0
+    },
+    "qg12": {
+      "value": 30000.0
+    },
+    "pd5total": {
+      "value": 0.0
+    },
+    "metotal": {
+      "value": 0.0
+    },
+    "qg401": {
+      "value": 2.0,
+      "label": "不太满意"
+    },
+    "qg406": {
+      "value": 2.0,
+      "label": "不太满意"
+    }
+  },
+  "family": {
+    "fid20": {
+      "value": 110060.0
+    },
+    "fml_count": {
+      "value": 4.0
+    },
+    "child16n": {
+      "value": 1.0
+    },
+    "qm803": {
+      "value": 4.0
+    },
+    "qm1104": {
+      "value": 5.0,
+      "label": "十分同意"
+    },
+    "qq9010n": {
+      "value": 4.0
+    }
+  },
+  "location": {
+    "urban20": {
+      "value": 1.0,
+      "label": "城镇"
+    },
+    "provcd20": {
+      "value": 11.0
+    },
+    "province": {
+      "value": "11.0",
+      "label": "北京"
+    }
+  },
+  "psychological": {
+    "qm2016": {
+      "value": 4.0
+    },
+    "qn12012": {
+      "value": 2.0,
+      "label": "不满意"
+    },
+    "qn416": {
+      "value": 2.0,
+      "label": "有些时候（1-2天）"
+    },
+    "qn406": {
+      "value": 2.0,
+      "label": "有些时候（1-2天）"
+    }
+  },
+  "social": {
+    "qn1001": {
+      "value": 5.0,
+      "label": "要越小心越好"
+    },
+    "qn10021": {
+      "value": 6.0
+    },
+    "qn10022": {
+      "value": 5.0
+    },
+    "qn10024": {
+      "value": 5.0
+    },
+    "qu952": {
+      "value": 4.0
+    }
+  },
+  "enriched": {
+    "life_experience": {
+      "education": "出生于北京城镇家庭，完成了初中教育。由于家庭经济条件限制，未能继续升学。",
+      "work": "成年后，在本地一家工厂从事装配工作，工作稳定但缺乏技术含量，薪资水平一般。",
+      "family_life": "与配偶结婚多年，育有一子。家庭和睦，但孩子教育支出成为家庭重要负担。"
+    },
+    "personality": {
+      "character": "勤奋、节俭、细心，但性格较为内向，不太善于表达自己的情感。",
+      "hobbies": "业余时间喜欢阅读报纸、观看电视新闻，关注国家大事。",
+      "values": "重视家庭，注重子女教育，认为勤劳和诚实是社会的基本价值。"
+    },
+    "life_pressure": {
+      "work": "工作环境相对单调，缺乏晋升机会，薪资水平不高，工作满意度较低。",
+      "family": "子女教育费用和生活成本不断上升，家庭经济压力较大。",
+      "financial": "家庭年收入稳定，但月收入较低，储蓄能力有限，面临一定的经济压力。"
+    },
+    "social_class": {
+      "income": "月收入3000元，年收入3万元，属于中等偏低收入群体。",
+      "education": "初中教育程度，相对较低。",
+      "occupation": "工厂装配工，职业地位不高。",
+      "assessment": "综合来看，该人物的社会地位属于中等偏下阶层。"
+    },
+    "consumption_habits": {
+      "spending_patterns": "消费较为保守，优先考虑实用性，较少购买奢侈品。",
+      "preferences": "偏好购买性价比高的商品，对打折促销活动比较敏感。"
+    },
+    "voucher_attitude": {
+      "policy_view": "认为政府发放消费券是刺激消费、稳定经济的好方法。",
+      "usage_intention": "愿意使用消费券购买生活必需品，但更倾向于用于子女教育相关的支出。"
+    }
+  }
+}

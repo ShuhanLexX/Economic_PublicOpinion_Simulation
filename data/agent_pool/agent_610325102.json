@@ -1,0 +1,154 @@
+{
+  "agent_id": 610325102,
+  "demographic": {
+    "pid": {
+      "value": 610325102.0
+    },
+    "gender": {
+      "value": 0.0,
+      "label": "女"
+    },
+    "age": {
+      "value": 66.0
+    },
+    "w01": {
+      "value": 4.0,
+      "label": "初中"
+    },
+    "marriage_last": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    },
+    "qea0": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    }
+  },
+  "economic": {
+    "income": {
+      "value": 30000.0
+    },
+    "qm3012": {
+      "value": 5.0
+    },
+    "qg11": {
+      "value": 3000.0
+    },
+    "qg12": {
+      "value": 30000.0
+    },
+    "pd5total": {
+      "value": 0.0
+    },
+    "metotal": {
+      "value": 0.0
+    },
+    "qg401": {
+      "value": 4.0,
+      "label": "比较满意"
+    },
+    "qg406": {
+      "value": 5.0,
+      "label": "非常满意"
+    }
+  },
+  "family": {
+    "fid20": {
+      "value": 610325.0
+    },
+    "fml_count": {
+      "value": 2.0
+    },
+    "child16n": {
+      "value": 0.0
+    },
+    "qm803": {
+      "value": 4.0
+    },
+    "qm1104": {
+      "value": 5.0,
+      "label": "十分同意"
+    },
+    "qq9010n": {
+      "value": 3.0
+    }
+  },
+  "location": {
+    "urban20": {
+      "value": 0.0,
+      "label": "乡村"
+    },
+    "provcd20": {
+      "value": 61.0
+    },
+    "province": {
+      "value": "61.0",
+      "label": "陕西"
+    }
+  },
+  "psychological": {
+    "qm2016": {
+      "value": 8.0
+    },
+    "qn12012": {
+      "value": 4.0,
+      "label": "满意"
+    },
+    "qn416": {
+      "value": 3.0,
+      "label": "经常有（3-4天）"
+    },
+    "qn406": {
+      "value": 1.0,
+      "label": "几乎没有（不到一天）"
+    }
+  },
+  "social": {
+    "qn1001": {
+      "value": 1.0,
+      "label": "大多数人是可以信任的"
+    },
+    "qn10021": {
+      "value": 10.0
+    },
+    "qn10022": {
+      "value": 7.0
+    },
+    "qn10024": {
+      "value": 0.0
+    },
+    "qu952": {
+      "value": 3.0
+    }
+  },
+  "enriched": {
+    "life_experience": {
+      "education": "由于出生在陕西省乡村地区，年轻时受教育机会有限，完成初中教育后，便开始在乡村从事农业劳动。经历了从手工劳动到机械化农业的转变。",
+      "career": "年轻时在乡村担任过农民、养殖户，随着年龄增长，逐渐转行成为当地的小商贩，主要经营农产品和小商品。",
+      "family_life": "与丈夫结婚多年，两人共同经营小生意，家庭生活相对稳定。目前家庭由两人组成，生活节奏较为简单。"
+    },
+    "personality": {
+      "characteristics": "性格坚韧、乐观，善于与人沟通，具有较强的家庭责任感。",
+      "interests": "喜欢在闲暇时阅读农业科技书籍，关注乡村政策动态，对农业生产有浓厚兴趣。",
+      "values": "重视家庭和谐，认为勤劳致富是家庭幸福的基础。"
+    },
+    "life_pressure": {
+      "work": "作为小商贩，面临市场竞争和天气变化带来的收入波动。",
+      "family": "虽然家庭生活稳定，但随着年事渐高，体力劳动成为负担。",
+      "economy": "收入水平相对较低，生活成本逐渐上升，对未来可能出现的医疗和养老问题感到担忧。"
+    },
+    "social_class": {
+      "income": "根据年收入30000元，属于中等偏下收入水平。",
+      "education": "初中教育程度，在社会竞争中处于不利位置。",
+      "occupation": "小商贩，职业稳定性相对较低，社会地位不高。"
+    },
+    "consumption_habits": {
+      "spending_patterns": "消费以实用性为主，注重性价比，倾向于购买物美价廉的商品。",
+      "preferences": "偏好传统农产品和小型生活必需品。"
+    },
+    "voucher_attitude": {
+      "opinion": "对政府发放消费券政策持积极态度，认为这有助于缓解生活压力。",
+      "usage_intention": "愿意使用消费券购买生活必需品，以减轻经济负担。"
+    }
+  }
+}

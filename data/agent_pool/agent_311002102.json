@@ -1,0 +1,166 @@
+{
+  "agent_id": 311002102,
+  "demographic": {
+    "pid": {
+      "value": 311002102.0
+    },
+    "gender": {
+      "value": 1.0,
+      "label": "男"
+    },
+    "age": {
+      "value": 44.0
+    },
+    "w01": {
+      "value": 7.0,
+      "label": "大学本科"
+    },
+    "marriage_last": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    },
+    "qea0": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    }
+  },
+  "economic": {
+    "income": {
+      "value": 200000.0
+    },
+    "qm3012": {
+      "value": 5.0
+    },
+    "qg11": {
+      "value": 10000.0
+    },
+    "qg12": {
+      "value": 200000.0
+    },
+    "pd5total": {
+      "value": 0.0
+    },
+    "metotal": {
+      "value": 15000.0
+    },
+    "qg401": {
+      "value": 4.0,
+      "label": "比较满意"
+    },
+    "qg406": {
+      "value": 4.0,
+      "label": "比较满意"
+    }
+  },
+  "family": {
+    "fid20": {
+      "value": 173205.0
+    },
+    "fml_count": {
+      "value": 3.0
+    },
+    "child16n": {
+      "value": 0.0
+    },
+    "qm803": {
+      "value": 5.0
+    },
+    "qm1104": {
+      "value": 3.0,
+      "label": "中立"
+    },
+    "qq9010n": {
+      "value": 1.0
+    }
+  },
+  "location": {
+    "urban20": {
+      "value": 1.0,
+      "label": "城镇"
+    },
+    "provcd20": {
+      "value": 31.0
+    },
+    "province": {
+      "value": "31.0",
+      "label": "上海"
+    }
+  },
+  "psychological": {
+    "qm2016": {
+      "value": 5.0
+    },
+    "qn12012": {
+      "value": 3.0,
+      "label": "一般"
+    },
+    "qn416": {
+      "value": 2.0,
+      "label": "有些时候（1-2天）"
+    },
+    "qn406": {
+      "value": 2.0,
+      "label": "有些时候（1-2天）"
+    }
+  },
+  "social": {
+    "qn1001": {
+      "value": 5.0,
+      "label": "要越小心越好"
+    },
+    "qn10021": {
+      "value": 9.0
+    },
+    "qn10022": {
+      "value": 5.0
+    },
+    "qn10024": {
+      "value": 3.0
+    },
+    "qu952": {
+      "value": 4.0
+    }
+  },
+  "enriched": {
+    "life_experience": {
+      "education": {
+        "high_school": "某市重点高中",
+        "university": "某知名大学本科",
+        "postgraduate": null
+      },
+      "career": {
+        "first_job": "某知名外企市场营销专员",
+        "current_job": "某互联网公司产品经理",
+        "promotions": "从市场营销专员晋升为产品经理"
+      },
+      "family_life": {
+        "marriage": "与大学同学结婚，婚后定居上海",
+        "residence": "上海市区，居住环境舒适",
+        "children": "无子女"
+      }
+    },
+    "personality": {
+      "character": "稳重、有责任心、注重细节",
+      "hobbies": "阅读、健身、旅游",
+      "values": "重视家庭、追求事业成功、崇尚平等和公正"
+    },
+    "life_pressure": {
+      "work": "工作压力大，需要经常加班，竞争激烈",
+      "family": "无子女，家庭压力较小，但关心父母健康",
+      "financial": "收入稳定，但房价和生活成本较高，储蓄有限"
+    },
+    "social_class": {
+      "income": "中产阶层",
+      "education": "本科毕业，具备一定教育背景",
+      "occupation": "产品经理，职业地位较高"
+    },
+    "consumption_habits": {
+      "spending": "注重品牌，偏好品质消费，但也会考虑性价比",
+      "preference": "偏好线上购物，对电子产品和时尚用品兴趣浓厚"
+    },
+    "voucher_attitude": {
+      "view": "认为消费券是政府刺激经济的一种手段，有一定的积极作用",
+      "intention": "愿意使用消费券，但更倾向于用于购买必需品，如食品和日用品"
+    }
+  }
+}

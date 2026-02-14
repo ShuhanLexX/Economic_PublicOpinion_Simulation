@@ -1,0 +1,155 @@
+{
+  "agent_id": 370300104,
+  "demographic": {
+    "pid": {
+      "value": 370300104.0
+    },
+    "gender": {
+      "value": 1.0,
+      "label": "男"
+    },
+    "age": {
+      "value": 32.0
+    },
+    "w01": {
+      "value": 4.0,
+      "label": "初中"
+    },
+    "marriage_last": {
+      "value": 1.0,
+      "label": "未婚"
+    },
+    "qea0": {
+      "value": 1.0,
+      "label": "未婚"
+    }
+  },
+  "economic": {
+    "income": {
+      "value": 60000.0
+    },
+    "qm3012": {
+      "value": 5.0
+    },
+    "qg11": {
+      "value": 5400.0
+    },
+    "qg12": {
+      "value": 60000.0
+    },
+    "pd5total": {
+      "value": 0.0
+    },
+    "metotal": {
+      "value": 500.0
+    },
+    "qg401": {
+      "value": 2.0,
+      "label": "不太满意"
+    },
+    "qg406": {
+      "value": 3.0,
+      "label": "一般"
+    }
+  },
+  "family": {
+    "fid20": {
+      "value": 370300.0
+    },
+    "fml_count": {
+      "value": 4.0
+    },
+    "child16n": {
+      "value": 0.0
+    },
+    "qm803": {
+      "value": 5.0
+    },
+    "qm1104": {
+      "value": 5.0,
+      "label": "十分同意"
+    },
+    "qq9010n": {
+      "value": 2.0
+    }
+  },
+  "location": {
+    "urban20": {
+      "value": 0.0,
+      "label": "乡村"
+    },
+    "provcd20": {
+      "value": 37.0
+    },
+    "province": {
+      "value": "37.0",
+      "label": "山东"
+    }
+  },
+  "psychological": {
+    "qm2016": {
+      "value": 2.0
+    },
+    "qn12012": {
+      "value": 1.0,
+      "label": "非常不满意"
+    },
+    "qn416": {
+      "value": 2.0,
+      "label": "有些时候（1-2天）"
+    },
+    "qn406": {
+      "value": 1.0,
+      "label": "几乎没有（不到一天）"
+    }
+  },
+  "social": {
+    "qn1001": {
+      "value": 5.0,
+      "label": "要越小心越好"
+    },
+    "qn10021": {
+      "value": 10.0
+    },
+    "qn10022": {
+      "value": 5.0
+    },
+    "qn10024": {
+      "value": 2.0
+    },
+    "qu952": {
+      "value": 5.0
+    }
+  },
+  "enriched": {
+    "life_experience": {
+      "education": "从小在山东省乡村地区长大，由于家庭经济条件有限，未能继续升学，初中毕业后便开始工作。",
+      "work": "早期在乡村地区从事农业劳动，随着技能的提升，后来进入一家小型工厂担任操作工。工作稳定，但收入有限。",
+      "family_life": "家庭成员包括父母、哥哥和妹妹。家庭关系较为和睦，但经济压力较大，需要共同努力维持家庭生计。"
+    },
+    "personality": {
+      "character": "勤奋、节俭，但性格较为内向，不善于表达自己的情感。",
+      "interests": "业余时间喜欢阅读一些农业技术书籍，以及通过观看电视节目了解外面的世界。",
+      "values": "重视家庭和亲情，认为勤劳和诚实是做人的根本。"
+    },
+    "life_pressure": {
+      "work": "工作环境较为艰苦，劳动强度大，且收入增长缓慢。",
+      "family": "家庭经济压力较大，需要为父母养老和妹妹的教育费用担忧。",
+      "financial": "收入水平较低，难以满足家庭的基本生活需求，对未来经济状况感到担忧。"
+    },
+    "social_class": {
+      "income": "年收入60000元，属于中等偏下水平。",
+      "education": "初中教育程度，限制了职业发展。",
+      "occupation": "工厂操作工，职业地位不高。",
+      "evaluation": "根据收入、教育和职业等因素，属于社会中下层。"
+    },
+    "consumption_habits": {
+      "spending_patterns": "消费较为谨慎，优先考虑性价比，倾向于购买打折商品。",
+      "preferences": "偏好购买实用性强的商品，如家电、家具等，对奢侈品和娱乐消费较为排斥。"
+    },
+    "voucher_attitude": {
+      "policy_view": "认为政府发放消费券是帮助民众缓解经济压力的一种有效措施。",
+      "usage_willingness": "愿意使用消费券，但更倾向于购买生活必需品，而非奢侈品。"
+    }
+  }
+}

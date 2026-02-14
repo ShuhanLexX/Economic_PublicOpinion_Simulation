@@ -1,0 +1,155 @@
+{
+  "agent_id": 360139101,
+  "demographic": {
+    "pid": {
+      "value": 360139101.0
+    },
+    "gender": {
+      "value": 1.0,
+      "label": "男"
+    },
+    "age": {
+      "value": 45.0
+    },
+    "w01": {
+      "value": 4.0,
+      "label": "初中"
+    },
+    "marriage_last": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    },
+    "qea0": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    }
+  },
+  "economic": {
+    "income": {
+      "value": 30000.0
+    },
+    "qm3012": {
+      "value": 5.0
+    },
+    "qg11": {
+      "value": 3000.0
+    },
+    "qg12": {
+      "value": 30000.0
+    },
+    "pd5total": {
+      "value": 0.0
+    },
+    "metotal": {
+      "value": 200.0
+    },
+    "qg401": {
+      "value": 3.0,
+      "label": "一般"
+    },
+    "qg406": {
+      "value": 3.0,
+      "label": "一般"
+    }
+  },
+  "family": {
+    "fid20": {
+      "value": 360139.0
+    },
+    "fml_count": {
+      "value": 5.0
+    },
+    "child16n": {
+      "value": 1.0
+    },
+    "qm803": {
+      "value": 5.0
+    },
+    "qm1104": {
+      "value": 4.0,
+      "label": "同意"
+    },
+    "qq9010n": {
+      "value": 1.0
+    }
+  },
+  "location": {
+    "urban20": {
+      "value": 1.0,
+      "label": "城镇"
+    },
+    "provcd20": {
+      "value": 36.0
+    },
+    "province": {
+      "value": "36.0",
+      "label": "江西"
+    }
+  },
+  "psychological": {
+    "qm2016": {
+      "value": 5.0
+    },
+    "qn12012": {
+      "value": 3.0,
+      "label": "一般"
+    },
+    "qn416": {
+      "value": 3.0,
+      "label": "经常有（3-4天）"
+    },
+    "qn406": {
+      "value": 1.0,
+      "label": "几乎没有（不到一天）"
+    }
+  },
+  "social": {
+    "qn1001": {
+      "value": 5.0,
+      "label": "要越小心越好"
+    },
+    "qn10021": {
+      "value": 8.0
+    },
+    "qn10022": {
+      "value": 5.0
+    },
+    "qn10024": {
+      "value": 1.0
+    },
+    "qu952": {
+      "value": 3.0
+    }
+  },
+  "enriched": {
+    "life_experience": {
+      "education": "在江西省城镇地区，完成了初中教育。由于家庭经济条件有限，未能继续深造。",
+      "work": "从事制造业工作，主要负责流水线操作。工作稳定，但晋升空间有限。",
+      "family": "与配偶结婚多年，育有一子。家庭生活以子女教育为主，同时承担家庭经济责任。"
+    },
+    "personality": {
+      "characteristics": "性格踏实稳重，责任心强。在家庭中担任支柱角色，对家人关爱备至。",
+      "interests": "业余时间喜欢打篮球、阅读。对家庭和子女的教育问题特别关注。",
+      "values": "重视家庭和亲情，认为家庭和睦是最大的幸福。对工作和生活持有务实态度。"
+    },
+    "life_pressure": {
+      "work": "工作压力主要来源于收入水平较低，难以满足家庭日益增长的需求。",
+      "family": "家庭压力较大，需要承担抚养子女和赡养长辈的责任。",
+      "economic": "经济压力是最大的压力来源，担心未来的经济状况无法保障家庭生活。"
+    },
+    "social_class": {
+      "income": "年收入30000元，属于中等收入水平。",
+      "education": "初中教育程度，相对较低。",
+      "occupation": "制造业工人，职业地位一般。",
+      "evaluation": "综合评估，属于中下层社会阶层。"
+    },
+    "consumption_habits": {
+      "methods": "消费方式以实用为主，注重性价比。",
+      "preferences": "偏好购买打折商品，对新产品和新品牌兴趣不大。"
+    },
+    "voucher_attitude": {
+      "views": "对政府发放消费券政策持积极态度，认为这有助于缓解经济压力。",
+      "willingness": "愿意使用消费券购买日常生活必需品，但对于非必需品则持谨慎态度。"
+    }
+  }
+}

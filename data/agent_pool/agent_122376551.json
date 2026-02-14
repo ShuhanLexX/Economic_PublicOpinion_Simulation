@@ -1,0 +1,164 @@
+{
+  "agent_id": 122376551,
+  "demographic": {
+    "pid": {
+      "value": 122376551.0
+    },
+    "gender": {
+      "value": 1.0,
+      "label": "男"
+    },
+    "age": {
+      "value": 34.0
+    },
+    "w01": {
+      "value": 6.0,
+      "label": "大专"
+    },
+    "marriage_last": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    },
+    "qea0": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    }
+  },
+  "economic": {
+    "income": {
+      "value": 90000.0
+    },
+    "qm3012": {
+      "value": 5.0
+    },
+    "qg11": {
+      "value": 10000.0
+    },
+    "qg12": {
+      "value": 30000.0
+    },
+    "pd5total": {
+      "value": 0.0
+    },
+    "metotal": {
+      "value": 2000.0
+    },
+    "qg401": {
+      "value": 2.0,
+      "label": "不太满意"
+    },
+    "qg406": {
+      "value": 3.0,
+      "label": "一般"
+    }
+  },
+  "family": {
+    "fid20": {
+      "value": 122376.0
+    },
+    "fml_count": {
+      "value": 3.0
+    },
+    "child16n": {
+      "value": 1.0
+    },
+    "qm803": {
+      "value": 5.0
+    },
+    "qm1104": {
+      "value": 5.0,
+      "label": "十分同意"
+    },
+    "qq9010n": {
+      "value": 1.0
+    }
+  },
+  "location": {
+    "urban20": {
+      "value": 1.0,
+      "label": "城镇"
+    },
+    "provcd20": {
+      "value": 32.0
+    },
+    "province": {
+      "value": "32.0",
+      "label": "江苏"
+    }
+  },
+  "psychological": {
+    "qm2016": {
+      "value": 10.0
+    },
+    "qn12012": {
+      "value": 4.0,
+      "label": "满意"
+    },
+    "qn416": {
+      "value": 4.0,
+      "label": "大多数时候有（5-7天）"
+    },
+    "qn406": {
+      "value": 2.0,
+      "label": "有些时候（1-2天）"
+    }
+  },
+  "social": {
+    "qn1001": {
+      "value": 1.0,
+      "label": "大多数人是可以信任的"
+    },
+    "qn10021": {
+      "value": 10.0
+    },
+    "qn10022": {
+      "value": 8.0
+    },
+    "qn10024": {
+      "value": 5.0
+    },
+    "qu952": {
+      "value": 5.0
+    }
+  },
+  "enriched": {
+    "life_experience": {
+      "education": {
+        "high_school": "江苏省某重点高中",
+        "college": "江苏省某大专院校，主修市场营销专业"
+      },
+      "work": {
+        "first_job": "毕业后在一家私营企业担任市场营销专员，负责市场调研和推广活动",
+        "current_job": "现于一家中型企业担任销售经理，负责团队管理和销售业绩达成"
+      },
+      "family_life": {
+        "marriage": "与妻子相识于大学，毕业后结婚，育有一子",
+        "recent_changes": "近两年家庭居住条件有所改善，购入了一套位于城镇地区的住宅"
+      }
+    },
+    "personality": {
+      "characteristics": "性格开朗，善于沟通，有较强的责任心和执行力",
+      "interests": "喜欢阅读、运动，特别是篮球，业余时间也喜欢研究市场趋势和投资知识",
+      "values": "重视家庭，尊重传统价值观，注重个人成长和事业发展"
+    },
+    "life_pressure": {
+      "work": "工作压力大，需要不断学习和适应市场变化，同时也要面对销售业绩的压力",
+      "family": "家庭生活方面，需要平衡工作和家庭责任，同时为子女的教育和生活提供保障",
+      "financial": "虽然收入稳定，但家庭开销较大，特别是在教育、住房等方面"
+    },
+    "social_class": {
+      "income": "年收入90000元，属于中等收入水平",
+      "education": "大专学历，具有一定的专业知识和技能",
+      "occupation": "销售经理，职业地位中等",
+      "assessment": "综合来看，属于中产阶级"
+    },
+    "consumption_habits": {
+      "spending_patterns": "消费习惯较为理性，注重性价比，倾向于购买品牌商品",
+      "preferences": "偏好电子产品、家居用品和休闲旅游"
+    },
+    "voucher_attitude": {
+      "policy_view": "认为政府发放消费券是刺激消费、促进经济发展的有效手段",
+      "usage_intention": "如果有消费券，愿意将其用于购买日常必需品或家庭装修等消费活动"
+    }
+  }
+}

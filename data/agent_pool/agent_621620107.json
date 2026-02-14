@@ -1,0 +1,155 @@
+{
+  "agent_id": 621620107,
+  "demographic": {
+    "pid": {
+      "value": 621620107.0
+    },
+    "gender": {
+      "value": 1.0,
+      "label": "男"
+    },
+    "age": {
+      "value": 19.0
+    },
+    "w01": {
+      "value": 4.0,
+      "label": "初中"
+    },
+    "marriage_last": {
+      "value": 1.0,
+      "label": "未婚"
+    },
+    "qea0": {
+      "value": 1.0,
+      "label": "未婚"
+    }
+  },
+  "economic": {
+    "income": {
+      "value": 27500.0
+    },
+    "qm3012": {
+      "value": 3.0
+    },
+    "qg11": {
+      "value": 3500.0
+    },
+    "qg12": {
+      "value": 24000.0
+    },
+    "pd5total": {
+      "value": 0.0
+    },
+    "metotal": {
+      "value": 7200.0
+    },
+    "qg401": {
+      "value": 4.0,
+      "label": "比较满意"
+    },
+    "qg406": {
+      "value": 4.0,
+      "label": "比较满意"
+    }
+  },
+  "family": {
+    "fid20": {
+      "value": 197074.0
+    },
+    "fml_count": {
+      "value": 4.0
+    },
+    "child16n": {
+      "value": 2.0
+    },
+    "qm803": {
+      "value": 5.0
+    },
+    "qm1104": {
+      "value": 4.0,
+      "label": "同意"
+    },
+    "qq9010n": {
+      "value": 1.0
+    }
+  },
+  "location": {
+    "urban20": {
+      "value": 0.0,
+      "label": "乡村"
+    },
+    "provcd20": {
+      "value": 62.0
+    },
+    "province": {
+      "value": "62.0",
+      "label": "甘肃"
+    }
+  },
+  "psychological": {
+    "qm2016": {
+      "value": 10.0
+    },
+    "qn12012": {
+      "value": 3.0,
+      "label": "一般"
+    },
+    "qn416": {
+      "value": 4.0,
+      "label": "大多数时候有（5-7天）"
+    },
+    "qn406": {
+      "value": 2.0,
+      "label": "有些时候（1-2天）"
+    }
+  },
+  "social": {
+    "qn1001": {
+      "value": 1.0,
+      "label": "大多数人是可以信任的"
+    },
+    "qn10021": {
+      "value": 10.0
+    },
+    "qn10022": {
+      "value": 8.0
+    },
+    "qn10024": {
+      "value": 5.0
+    },
+    "qu952": {
+      "value": 1.0
+    }
+  },
+  "enriched": {
+    "life_experience": {
+      "education": "自小在甘肃省乡村地区生活，完成了初中学业。由于家庭经济条件限制，未能继续升学，选择留在乡村地区工作。",
+      "work": "在当地的农场工作，从事农作物种植和养殖工作。工作稳定，积累了一定的实践经验。",
+      "family_life": "家庭结构为四口之家，有两个孩子，都在16岁以下。家庭成员间关系和谐，共同承担家庭责任。"
+    },
+    "personality": {
+      "character_traits": "性格内向，勤奋踏实，善于沟通。乐于助人，有一定的组织协调能力。",
+      "interests": "业余时间喜欢阅读农业技术书籍，关注农村发展动态。也喜欢参与家庭农事活动，享受劳动带来的成就感。",
+      "values": "重视家庭和传统价值观，认为努力工作、勤俭节约是生活的重要原则。"
+    },
+    "life_pressure": {
+      "work": "工作强度较大，需要面对季节性农作物的种植和收获。",
+      "family": "需要承担家庭的经济支持责任，同时兼顾家庭教育和日常生活。",
+      "financial": "收入有限，日常开销较大，面临一定的经济压力。"
+    },
+    "social_class": {
+      "income": "年收入27500元，属于农村中低收入群体。",
+      "education": "初中教育程度，相对较低。",
+      "occupation": "从事农业生产，职业地位较低。",
+      "social_status": "根据收入、教育和职业等因素，属于农村中等偏下阶层。"
+    },
+    "consumption_habits": {
+      "patterns": "消费习惯较为保守，倾向于购买必需品，较少购买奢侈品。",
+      "preferences": "偏好购买当地生产的农产品，认为其更健康、安全。"
+    },
+    "voucher_attitude": {
+      "view": "对政府发放消费券持积极态度，认为这有助于缓解经济压力。",
+      "willingness_to_use": "愿意使用消费券，但更倾向于用于购买日常生活必需品。"
+    }
+  }
+}

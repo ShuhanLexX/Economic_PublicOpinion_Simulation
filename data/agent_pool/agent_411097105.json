@@ -1,0 +1,174 @@
+{
+  "agent_id": 411097105,
+  "demographic": {
+    "pid": {
+      "value": 411097105.0
+    },
+    "gender": {
+      "value": 0.0,
+      "label": "女"
+    },
+    "age": {
+      "value": 23.0
+    },
+    "w01": {
+      "value": 7.0,
+      "label": "大学本科"
+    },
+    "marriage_last": {
+      "value": 1.0,
+      "label": "未婚"
+    },
+    "qea0": {
+      "value": 1.0,
+      "label": "未婚"
+    }
+  },
+  "economic": {
+    "income": {
+      "value": 2200.0
+    },
+    "qm3012": {
+      "value": 5.0
+    },
+    "qg11": {
+      "value": 2200.0
+    },
+    "qg12": {
+      "value": 2200.0
+    },
+    "pd5total": {
+      "value": 0.0
+    },
+    "metotal": {
+      "value": 0.0
+    },
+    "qg401": {
+      "value": 4.0,
+      "label": "比较满意"
+    },
+    "qg406": {
+      "value": 3.0,
+      "label": "一般"
+    }
+  },
+  "family": {
+    "fid20": {
+      "value": 411097.0
+    },
+    "fml_count": {
+      "value": 4.0
+    },
+    "child16n": {
+      "value": 1.0
+    },
+    "qm803": {
+      "value": 5.0
+    },
+    "qm1104": {
+      "value": 5.0,
+      "label": "十分同意"
+    },
+    "qq9010n": {
+      "value": 0.5
+    }
+  },
+  "location": {
+    "urban20": {
+      "value": 0.0,
+      "label": "乡村"
+    },
+    "provcd20": {
+      "value": 41.0
+    },
+    "province": {
+      "value": "41.0",
+      "label": "河南"
+    }
+  },
+  "psychological": {
+    "qm2016": {
+      "value": 9.0
+    },
+    "qn12012": {
+      "value": 5.0,
+      "label": "非常满意"
+    },
+    "qn416": {
+      "value": 3.0,
+      "label": "经常有（3-4天）"
+    },
+    "qn406": {
+      "value": 1.0,
+      "label": "几乎没有（不到一天）"
+    }
+  },
+  "social": {
+    "qn1001": {
+      "value": 1.0,
+      "label": "大多数人是可以信任的"
+    },
+    "qn10021": {
+      "value": 10.0
+    },
+    "qn10022": {
+      "value": 5.0
+    },
+    "qn10024": {
+      "value": 0.0
+    },
+    "qu952": {
+      "value": 5.0
+    }
+  },
+  "enriched": {
+    "life_experience": {
+      "education": {
+        "primary_school": "河南省某乡村小学",
+        "middle_school": "河南省某乡村中学",
+        "high_school": "河南省某乡村高中",
+        "college": "河南省某本科院校"
+      },
+      "work": {
+        "first_job": "在乡村小学担任代课教师",
+        "current_job": "在乡村小学担任正式教师"
+      },
+      "family_life": {
+        "marriage_status": "未婚",
+        "family_members": [
+          "父母",
+          "哥哥",
+          "妹妹",
+          "自己"
+        ],
+        "children": [
+          "一个16岁以下的儿子"
+        ]
+      }
+    },
+    "personality": {
+      "character_traits": "耐心、细心、有责任心",
+      "interests": "阅读、音乐、园艺",
+      "values": "重视家庭、尊重传统、追求稳定"
+    },
+    "life_pressure": {
+      "work": "工作强度较大，但满足于稳定的工作环境",
+      "family": "家庭经济状况一般，需要为子女教育和生活费用努力",
+      "economic": "年收入较低，生活节俭，对未来收入增长有期待"
+    },
+    "social_class": {
+      "income": "低于城市平均水平",
+      "education": "本科水平，但乡村教育资源有限",
+      "occupation": "乡村教师，职业稳定性较高",
+      "evaluation": "中等偏下社会阶层"
+    },
+    "consumption_habits": {
+      "spending_patterns": "注重实用，购买物美价廉的商品",
+      "preference": "喜欢在本地市场购买生活必需品，偶尔网购"
+    },
+    "voucher_attitude": {
+      "policy_view": "认为消费券政策有助于缓解经济压力，提高生活质量",
+      "usage_willingness": "愿意使用消费券购买生活必需品和日常用品"
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "agent_id": 450339102,
+  "demographic": {
+    "pid": {
+      "value": 450339102.0
+    },
+    "gender": {
+      "value": 0.0,
+      "label": "女"
+    },
+    "age": {
+      "value": 72.0
+    },
+    "w01": {
+      "value": 4.0,
+      "label": "初中"
+    },
+    "marriage_last": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    },
+    "qea0": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    }
+  },
+  "economic": {
+    "income": {
+      "value": 30000.0
+    },
+    "qm3012": {
+      "value": 5.0
+    },
+    "qg11": {
+      "value": 3000.0
+    },
+    "qg12": {
+      "value": 30000.0
+    },
+    "pd5total": {
+      "value": 0.0
+    },
+    "metotal": {
+      "value": 500.0
+    },
+    "qg401": {
+      "value": 4.0,
+      "label": "比较满意"
+    },
+    "qg406": {
+      "value": 4.0,
+      "label": "比较满意"
+    }
+  },
+  "family": {
+    "fid20": {
+      "value": 450339.0
+    },
+    "fml_count": {
+      "value": 2.0
+    },
+    "child16n": {
+      "value": 0.0
+    },
+    "qm803": {
+      "value": 5.0
+    },
+    "qm1104": {
+      "value": 5.0,
+      "label": "十分同意"
+    },
+    "qq9010n": {
+      "value": -1.0,
+      "label": "不知道"
+    }
+  },
+  "location": {
+    "urban20": {
+      "value": 0.0,
+      "label": "乡村"
+    },
+    "provcd20": {
+      "value": 45.0
+    },
+    "province": {
+      "value": "45.0",
+      "label": "广西"
+    }
+  },
+  "psychological": {
+    "qm2016": {
+      "value": 10.0
+    },
+    "qn12012": {
+      "value": 4.0,
+      "label": "满意"
+    },
+    "qn416": {
+      "value": 1.0,
+      "label": "几乎没有（不到一天）"
+    },
+    "qn406": {
+      "value": 2.0,
+      "label": "有些时候（1-2天）"
+    }
+  },
+  "social": {
+    "qn1001": {
+      "value": 5.0,
+      "label": "要越小心越好"
+    },
+    "qn10021": {
+      "value": 10.0
+    },
+    "qn10022": {
+      "value": 10.0
+    },
+    "qn10024": {
+      "value": 0.0
+    },
+    "qu952": {
+      "value": 3.0
+    }
+  },
+  "enriched": {
+    "life_experience": {
+      "education": "在广西省乡村地区完成初中教育，由于家庭经济条件限制，未能继续升学。",
+      "work": "从事农业生产，如种植水稻、蔬菜等，随着年纪增长，逐渐减少劳动强度，但仍保持一定的农业生产活动。",
+      "family_life": "与配偶共同生活，家庭和睦，无子女，主要照顾配偶的生活起居。"
+    },
+    "personality": {
+      "character": "勤劳、节俭、热心，乐于助人，性格坚韧，能够适应农村生活。",
+      "interests": "喜欢在闲暇时进行简单的户外活动，如散步、钓鱼等。",
+      "values": "重视家庭和亲情，认为节俭和勤劳是立身之本。"
+    },
+    "life_pressure": {
+      "work": "农业生产受天气和市场需求影响较大，收入不稳定。",
+      "family": "随着年龄增长，照顾配偶和家务劳动成为主要压力。",
+      "economic": "经济收入有限，日常开销和医疗费用构成一定的经济压力。"
+    },
+    "social_class": {
+      "income": "年收入约30000元，属于中等偏下收入水平。",
+      "education": "初中教育程度，社会认可度一般。",
+      "occupation": "从事农业生产，职业地位相对较低。",
+      "overall": "根据收入、教育和职业等因素，评估为中等偏下社会阶层。"
+    },
+    "consumption_habits": {
+      "spending_patterns": "消费习惯较为保守，注重实用，倾向于购买性价比高的商品。",
+      "preferences": "偏好购买本地生产的农产品，对价格敏感。"
+    },
+    "voucher_attitude": {
+      "policy_view": "对政府发放消费券政策持积极态度，认为有助于缓解经济压力。",
+      "usage_willingness": "愿意使用消费券，但更倾向于用于日常生活必需品的购买。"
+    }
+  }
+}

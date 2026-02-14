@@ -1,0 +1,163 @@
+{
+  "agent_id": 120094103,
+  "demographic": {
+    "pid": {
+      "value": 120094103.0
+    },
+    "gender": {
+      "value": 0.0,
+      "label": "女"
+    },
+    "age": {
+      "value": 26.0
+    },
+    "w01": {
+      "value": 6.0,
+      "label": "大专"
+    },
+    "marriage_last": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    },
+    "qea0": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    }
+  },
+  "economic": {
+    "income": {
+      "value": 45600.0
+    },
+    "qm3012": {
+      "value": 5.0
+    },
+    "qg11": {
+      "value": 3800.0
+    },
+    "qg12": {
+      "value": 45600.0
+    },
+    "pd5total": {
+      "value": 0.0
+    },
+    "metotal": {
+      "value": 2000.0
+    },
+    "qg401": {
+      "value": 4.0,
+      "label": "比较满意"
+    },
+    "qg406": {
+      "value": 4.0,
+      "label": "比较满意"
+    }
+  },
+  "family": {
+    "fid20": {
+      "value": 200926.0
+    },
+    "fml_count": {
+      "value": 3.0
+    },
+    "child16n": {
+      "value": 1.0
+    },
+    "qm803": {
+      "value": 3.0
+    },
+    "qm1104": {
+      "value": 5.0,
+      "label": "十分同意"
+    },
+    "qq9010n": {
+      "value": 1.0
+    }
+  },
+  "location": {
+    "urban20": {
+      "value": 1.0,
+      "label": "城镇"
+    },
+    "provcd20": {
+      "value": 12.0
+    },
+    "province": {
+      "value": "12.0",
+      "label": "天津"
+    }
+  },
+  "psychological": {
+    "qm2016": {
+      "value": 7.0
+    },
+    "qn12012": {
+      "value": 4.0,
+      "label": "满意"
+    },
+    "qn416": {
+      "value": 4.0,
+      "label": "大多数时候有（5-7天）"
+    },
+    "qn406": {
+      "value": 1.0,
+      "label": "几乎没有（不到一天）"
+    }
+  },
+  "social": {
+    "qn1001": {
+      "value": 1.0,
+      "label": "大多数人是可以信任的"
+    },
+    "qn10021": {
+      "value": 10.0
+    },
+    "qn10022": {
+      "value": 7.0
+    },
+    "qn10024": {
+      "value": 4.0
+    },
+    "qu952": {
+      "value": 3.0
+    }
+  },
+  "enriched": {
+    "life_experience": {
+      "education": {
+        "high_school": "天津市某知名高中",
+        "vocational_school": "天津市某职业技术学院，主修市场营销专业"
+      },
+      "work": {
+        "first_job": "毕业后在一家小型广告公司担任市场营销助理",
+        "current_job": "目前任职于一家中型企业，担任市场营销专员"
+      },
+      "family": {
+        "marriage": "与丈夫相识于大学，毕业后不久步入婚姻殿堂",
+        "children": "有一个女儿，今年5岁，正在上幼儿园"
+      }
+    },
+    "personality": {
+      "character": "开朗、乐观、善于沟通",
+      "interests": "喜欢阅读、旅游、烹饪",
+      "values": "重视家庭，注重个人成长与职业发展"
+    },
+    "life_pressure": {
+      "work": "工作压力主要来自业绩考核和市场竞争",
+      "family": "家庭压力主要来自孩子的教育和家庭开支",
+      "economic": "经济压力来自于生活成本的上升和有限的收入增长"
+    },
+    "social_class": {
+      "income": "属于中等收入家庭",
+      "education": "大专学历，具有一定的知识储备",
+      "occupation": "市场营销专员，职业稳定性较好"
+    },
+    "consumption_habits": {
+      "shopping": "倾向于在大型电商平台购物，注重性价比",
+      "services": "愿意尝试新兴服务，如在线教育、健康管理等"
+    },
+    "voucher_attitude": {
+      "policy_view": "认为政府发放消费券是刺激消费、促进经济增长的有效手段",
+      "usage_willingness": "愿意使用消费券进行日常消费，尤其是购买必需品和进行家庭装修"
+    }
+  }
+}

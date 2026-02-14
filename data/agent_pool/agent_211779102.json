@@ -1,0 +1,154 @@
+{
+  "agent_id": 211779102,
+  "demographic": {
+    "pid": {
+      "value": 211779102.0
+    },
+    "gender": {
+      "value": 1.0,
+      "label": "男"
+    },
+    "age": {
+      "value": 48.0
+    },
+    "w01": {
+      "value": 4.0,
+      "label": "初中"
+    },
+    "marriage_last": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    },
+    "qea0": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    }
+  },
+  "economic": {
+    "income": {
+      "value": 30000.0
+    },
+    "qm3012": {
+      "value": 5.0
+    },
+    "qg11": {
+      "value": 3000.0
+    },
+    "qg12": {
+      "value": 30000.0
+    },
+    "pd5total": {
+      "value": 0.0
+    },
+    "metotal": {
+      "value": 15000.0
+    },
+    "qg401": {
+      "value": 4.0,
+      "label": "比较满意"
+    },
+    "qg406": {
+      "value": 4.0,
+      "label": "比较满意"
+    }
+  },
+  "family": {
+    "fid20": {
+      "value": 211779.0
+    },
+    "fml_count": {
+      "value": 2.0
+    },
+    "child16n": {
+      "value": 0.0
+    },
+    "qm803": {
+      "value": 5.0
+    },
+    "qm1104": {
+      "value": 5.0,
+      "label": "十分同意"
+    },
+    "qq9010n": {
+      "value": 0.0
+    }
+  },
+  "location": {
+    "urban20": {
+      "value": 1.0,
+      "label": "城镇"
+    },
+    "provcd20": {
+      "value": 21.0
+    },
+    "province": {
+      "value": "21.0",
+      "label": "辽宁"
+    }
+  },
+  "psychological": {
+    "qm2016": {
+      "value": 9.0
+    },
+    "qn12012": {
+      "value": 4.0,
+      "label": "满意"
+    },
+    "qn416": {
+      "value": 3.0,
+      "label": "经常有（3-4天）"
+    },
+    "qn406": {
+      "value": 1.0,
+      "label": "几乎没有（不到一天）"
+    }
+  },
+  "social": {
+    "qn1001": {
+      "value": 1.0,
+      "label": "大多数人是可以信任的"
+    },
+    "qn10021": {
+      "value": 10.0
+    },
+    "qn10022": {
+      "value": 8.0
+    },
+    "qn10024": {
+      "value": 0.0
+    },
+    "qu952": {
+      "value": 1.0
+    }
+  },
+  "enriched": {
+    "life_experience": {
+      "education": "自小在辽宁省城镇地区长大，初中毕业后因家庭经济原因未能继续升学，选择进入工厂工作。",
+      "work": "进入工厂后，由于表现良好，逐步晋升为车间主管，负责管理生产线。工作稳定，积累了丰富的工作经验。",
+      "family_life": "与妻子结婚多年，两人共同经营家庭。家庭和睦，夫妻关系良好。"
+    },
+    "personality": {
+      "character": "稳重、负责、有耐心，善于与人沟通。",
+      "hobbies": "业余时间喜欢钓鱼、阅读和锻炼。",
+      "values": "重视家庭，注重工作，认为诚实守信是做人的根本。"
+    },
+    "life_pressure": {
+      "work": "工作压力大，需要应对生产线的各种问题，保证生产进度。",
+      "family": "家庭支出较大，需要为妻子的医疗和子女的教育费用做准备。",
+      "economic": "收入水平相对稳定，但有时仍会感到经济压力，尤其是在大额支出时。"
+    },
+    "social_class": {
+      "income": "年收入30000元，属于中等收入水平。",
+      "education": "初中教育程度，相比高学历人群，社会地位稍显劣势。",
+      "occupation": "工厂车间主管，职业稳定性较高，但晋升空间有限。"
+    },
+    "consumption_habits": {
+      "spending_patterns": "消费较为理性，注重性价比，喜欢购买实用耐用的商品。",
+      "preferences": "偏好购买国产品牌，对新技术和新产品有一定兴趣。"
+    },
+    "voucher_attitude": {
+      "view": "认为政府发放消费券是刺激消费、促进经济发展的好方法。",
+      "willingness_to_use": "愿意使用消费券，尤其是购买大件商品时，可以减轻经济负担。"
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "agent_id": 500036103,
+  "demographic": {
+    "pid": {
+      "value": 500036103.0
+    },
+    "gender": {
+      "value": 1.0,
+      "label": "男"
+    },
+    "age": {
+      "value": 18.0
+    },
+    "w01": {
+      "value": 4.0,
+      "label": "初中"
+    },
+    "marriage_last": {
+      "value": 1.0,
+      "label": "未婚"
+    },
+    "qea0": {
+      "value": 1.0,
+      "label": "未婚"
+    }
+  },
+  "economic": {
+    "income": {
+      "value": 30000.0
+    },
+    "qm3012": {
+      "value": 6.0
+    },
+    "qg11": {
+      "value": 3000.0
+    },
+    "qg12": {
+      "value": 30000.0
+    },
+    "pd5total": {
+      "value": 0.0
+    },
+    "metotal": {
+      "value": 0.0
+    },
+    "qg401": {
+      "value": 4.0,
+      "label": "比较满意"
+    },
+    "qg406": {
+      "value": 4.0,
+      "label": "比较满意"
+    }
+  },
+  "family": {
+    "fid20": {
+      "value": 500036.0
+    },
+    "fml_count": {
+      "value": 4.0
+    },
+    "child16n": {
+      "value": 0.0
+    },
+    "qm803": {
+      "value": 5.0
+    },
+    "qm1104": {
+      "value": 3.0,
+      "label": "中立"
+    },
+    "qq9010n": {
+      "value": 1.0
+    }
+  },
+  "location": {
+    "urban20": {
+      "value": 1.0,
+      "label": "城镇"
+    },
+    "provcd20": {
+      "value": 50.0
+    },
+    "province": {
+      "value": "50.0",
+      "label": "重庆"
+    }
+  },
+  "psychological": {
+    "qm2016": {
+      "value": 9.0
+    },
+    "qn12012": {
+      "value": 4.0,
+      "label": "满意"
+    },
+    "qn416": {
+      "value": 4.0,
+      "label": "大多数时候有（5-7天）"
+    },
+    "qn406": {
+      "value": 1.0,
+      "label": "几乎没有（不到一天）"
+    }
+  },
+  "social": {
+    "qn1001": {
+      "value": 1.0,
+      "label": "大多数人是可以信任的"
+    },
+    "qn10021": {
+      "value": 10.0
+    },
+    "qn10022": {
+      "value": 7.0
+    },
+    "qn10024": {
+      "value": 6.0
+    },
+    "qu952": {
+      "value": 5.0
+    }
+  },
+  "enriched": {
+    "life_experience": {
+      "education": "从小在重庆省城镇地区长大，完成了初中学业。由于家庭经济条件有限，未能继续升学，选择进入社会工作。",
+      "work": "毕业后，在一家小型制造企业找到了一份操作工的工作。由于工作表现良好，逐渐被提升为车间组长，负责管理一小部分员工。",
+      "family": "家庭由父母、一个哥哥和一个妹妹组成。家庭成员间关系和睦，家庭生活较为稳定。"
+    },
+    "personality": {
+      "character": "性格开朗，善于沟通，有一定的领导能力。",
+      "interests": "业余时间喜欢打篮球、阅读和参加社区活动。",
+      "values": "重视家庭，认为努力工作能够带来稳定的生活和家庭的幸福。"
+    },
+    "life_pressure": {
+      "work": "工作压力主要来自于生产任务的完成和质量控制，以及与同事的沟通和团队管理。",
+      "family": "家庭压力较小，主要来自于父母的养老和子女教育。",
+      "economic": "经济压力来自于家庭日常开销和未来子女教育费用的规划。"
+    },
+    "social_class": {
+      "income": "年收入30000元，属于中等收入水平。",
+      "education": "初中教育程度，限制了职业发展空间。",
+      "occupation": "作为车间组长，有一定的管理经验，但职业发展潜力有限。",
+      "social_status": "根据收入、教育和职业等因素，属于中等社会阶层。"
+    },
+    "consumption_habits": {
+      "spending_patterns": "消费习惯较为理性，注重性价比，倾向于购买实用且价格合理的商品。",
+      "preferences": "偏好购买国产品牌，对新兴科技产品有一定兴趣，但购买时会考虑预算。"
+    },
+    "voucher_attitude": {
+      "policy_view": "认为政府发放消费券是刺激消费、促进经济发展的有效措施。",
+      "usage_willingness": "愿意使用消费券，但更倾向于将其用于购买日常生活必需品，以减轻家庭经济压力。"
+    }
+  }
+}

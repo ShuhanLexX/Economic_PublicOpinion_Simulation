@@ -1,0 +1,154 @@
+{
+  "agent_id": 620795105,
+  "demographic": {
+    "pid": {
+      "value": 620795105.0
+    },
+    "gender": {
+      "value": 0.0,
+      "label": "女"
+    },
+    "age": {
+      "value": 14.0
+    },
+    "w01": {
+      "value": 3.0,
+      "label": "小学"
+    },
+    "marriage_last": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    },
+    "qea0": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    }
+  },
+  "economic": {
+    "income": {
+      "value": 30000.0
+    },
+    "qm3012": {
+      "value": 7.0
+    },
+    "qg11": {
+      "value": 3000.0
+    },
+    "qg12": {
+      "value": 30000.0
+    },
+    "pd5total": {
+      "value": 0.0
+    },
+    "metotal": {
+      "value": 0.0
+    },
+    "qg401": {
+      "value": 4.0,
+      "label": "比较满意"
+    },
+    "qg406": {
+      "value": 4.0,
+      "label": "比较满意"
+    }
+  },
+  "family": {
+    "fid20": {
+      "value": 620795.0
+    },
+    "fml_count": {
+      "value": 5.0
+    },
+    "child16n": {
+      "value": 2.0
+    },
+    "qm803": {
+      "value": 5.0
+    },
+    "qm1104": {
+      "value": 5.0,
+      "label": "十分同意"
+    },
+    "qq9010n": {
+      "value": 1.0
+    }
+  },
+  "location": {
+    "urban20": {
+      "value": 1.0,
+      "label": "城镇"
+    },
+    "provcd20": {
+      "value": 62.0
+    },
+    "province": {
+      "value": "62.0",
+      "label": "甘肃"
+    }
+  },
+  "psychological": {
+    "qm2016": {
+      "value": 9.0
+    },
+    "qn12012": {
+      "value": 5.0,
+      "label": "非常满意"
+    },
+    "qn416": {
+      "value": 3.0,
+      "label": "经常有（3-4天）"
+    },
+    "qn406": {
+      "value": 1.0,
+      "label": "几乎没有（不到一天）"
+    }
+  },
+  "social": {
+    "qn1001": {
+      "value": 1.0,
+      "label": "大多数人是可以信任的"
+    },
+    "qn10021": {
+      "value": 10.0
+    },
+    "qn10022": {
+      "value": 7.0
+    },
+    "qn10024": {
+      "value": 3.0
+    },
+    "qu952": {
+      "value": 2.0
+    }
+  },
+  "enriched": {
+    "life_experience": {
+      "education": "从小在甘肃省城镇地区生活，完成了小学教育，目前仍在接受进一步的教育。",
+      "work": "成年后，在本地一家工厂工作，担任普通工人，工作稳定，主要负责生产线上的组装工作。",
+      "family": "已婚，有一个稳定的家庭，有两个年幼的孩子，家庭生活和谐，家庭成员之间相互支持。"
+    },
+    "personality": {
+      "character": "性格温和，乐于助人，具有较强的家庭责任感。",
+      "interests": "喜欢阅读和户外活动，如散步和参加社区组织的文化活动。",
+      "values": "重视家庭和孩子的教育，认为努力工作是实现家庭幸福的基石。"
+    },
+    "life_pressure": {
+      "work": "工作压力主要来自于生产任务的完成和工厂规章的遵守。",
+      "family": "家庭压力来自于对两个孩子的教育和抚养，以及维持家庭日常开支。",
+      "economic": "经济压力来自于收入水平与家庭开支之间的差距，以及未来子女教育的费用。"
+    },
+    "social_class": {
+      "income": "年收入30000元，属于中等收入水平。",
+      "education": "小学教育程度，但家庭重视教育，有意愿为子女提供更好的教育资源。",
+      "occupation": "工厂工人，职业稳定性较高，但晋升空间有限。"
+    },
+    "consumption_habits": {
+      "spending_patterns": "消费习惯较为节俭，注重性价比，倾向于购买实用性强的商品。",
+      "preferences": "偏好购买本地品牌的产品，对新产品和新趋势持谨慎态度。"
+    },
+    "voucher_attitude": {
+      "view": "认为政府发放消费券是一种促进消费和经济复苏的好方法。",
+      "usage_intention": "愿意使用消费券购买必需品和日常消费品，以减轻家庭经济压力。"
+    }
+  }
+}

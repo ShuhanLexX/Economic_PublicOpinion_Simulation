@@ -1,0 +1,10 @@
+numpy
+pandas
+pydantic
+aiohttp
+asyncio-compat
+faiss-cpu
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers

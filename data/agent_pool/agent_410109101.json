@@ -1,0 +1,152 @@
+{
+  "agent_id": 410109101,
+  "demographic": {
+    "pid": {
+      "value": 410109101.0
+    },
+    "gender": {
+      "value": 1.0,
+      "label": "男"
+    },
+    "age": {
+      "value": 60.0
+    },
+    "w01": {
+      "value": 4.0,
+      "label": "初中"
+    },
+    "marriage_last": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    },
+    "qea0": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    }
+  },
+  "economic": {
+    "income": {
+      "value": 30000.0
+    },
+    "qm3012": {
+      "value": 5.0
+    },
+    "qg11": {
+      "value": 3000.0
+    },
+    "qg12": {
+      "value": 30000.0
+    },
+    "pd5total": {
+      "value": 0.0
+    },
+    "metotal": {
+      "value": 0.0
+    },
+    "qg401": {
+      "value": 4.0,
+      "label": "比较满意"
+    },
+    "qg406": {
+      "value": 4.0,
+      "label": "比较满意"
+    }
+  },
+  "family": {
+    "fid20": {
+      "value": 410109.0
+    },
+    "fml_count": {
+      "value": 9.0
+    },
+    "child16n": {
+      "value": 3.0
+    },
+    "qm803": {
+      "value": 5.0
+    },
+    "qm1104": {
+      "value": 5.0,
+      "label": "十分同意"
+    },
+    "qq9010n": {
+      "value": 1.0
+    }
+  },
+  "location": {
+    "urban20": {
+      "value": 1.0,
+      "label": "城镇"
+    },
+    "provcd20": {
+      "value": 41.0
+    },
+    "province": {
+      "value": "41.0",
+      "label": "河南"
+    }
+  },
+  "psychological": {
+    "qm2016": {
+      "value": 9.0
+    },
+    "qn12012": {
+      "value": 5.0,
+      "label": "非常满意"
+    },
+    "qn416": {
+      "value": 4.0,
+      "label": "大多数时候有（5-7天）"
+    },
+    "qn406": {
+      "value": 1.0,
+      "label": "几乎没有（不到一天）"
+    }
+  },
+  "social": {
+    "qn1001": {
+      "value": 1.0,
+      "label": "大多数人是可以信任的"
+    },
+    "qn10021": {
+      "value": 10.0
+    },
+    "qn10022": {
+      "value": 8.0
+    },
+    "qn10024": {
+      "value": 4.0
+    },
+    "qu952": {
+      "value": 3.0
+    }
+  },
+  "enriched": {
+    "life_experience": {
+      "education": "早年因家庭经济原因，未能继续升学，初中毕业后便开始工作。",
+      "work": "从事过多种工作，包括在工厂流水线作业、小商店经营等，积累了丰富的工作经验。",
+      "family_life": "结婚后，与配偶共同养育了三个孩子，家庭生活稳定，子女均已成年。随着子女的成长，家庭结构逐渐成熟，家庭成员间关系和谐。"
+    },
+    "personality": {
+      "characteristics": "性格沉稳，善于沟通，具有较强的责任心和适应能力。",
+      "hobbies": "业余时间喜欢阅读，对农业知识尤其感兴趣，也喜欢在空闲时与邻居聊天。",
+      "values": "重视家庭，认为家庭是生活的重心，注重子女教育，相信勤俭持家的重要性。"
+    },
+    "life_pressure": {
+      "work": "虽然工作满意度较高，但工作强度较大，有时需要加班以满足工作要求。",
+      "family": "家庭成员较多，家庭开支较大，需要承担抚养和教育子女的责任。",
+      "financial": "收入水平一般，需要精打细算以维持家庭开销，对经济状况有一定的担忧。"
+    },
+    "social_class": {
+      "assessment": "根据收入、教育程度和职业等因素，属于中等偏下社会阶层。"
+    },
+    "consumption_habits": {
+      "patterns": "消费习惯较为节俭，优先考虑性价比，倾向于购买品牌产品。",
+      "preferences": "喜欢在本地市场购物，对新鲜事物有一定的好奇心，但不会盲目跟风。"
+    },
+    "voucher_attitude": {
+      "policy_view": "认为政府发放消费券是刺激消费、促进经济发展的有效措施。",
+      "usage_intention": "愿意使用消费券，并会根据消费券的使用规则合理规划消费，以最大化优惠。"
+    }
+  }
+}

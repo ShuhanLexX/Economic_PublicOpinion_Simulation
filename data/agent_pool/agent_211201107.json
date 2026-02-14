@@ -1,0 +1,155 @@
+{
+  "agent_id": 211201107,
+  "demographic": {
+    "pid": {
+      "value": 211201107.0
+    },
+    "gender": {
+      "value": 0.0,
+      "label": "女"
+    },
+    "age": {
+      "value": 11.0
+    },
+    "w01": {
+      "value": 0.0,
+      "label": "文盲/半文盲"
+    },
+    "marriage_last": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    },
+    "qea0": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    }
+  },
+  "economic": {
+    "income": {
+      "value": 30000.0
+    },
+    "qm3012": {
+      "value": 8.0
+    },
+    "qg11": {
+      "value": 3000.0
+    },
+    "qg12": {
+      "value": 30000.0
+    },
+    "pd5total": {
+      "value": 0.0
+    },
+    "metotal": {
+      "value": 0.0
+    },
+    "qg401": {
+      "value": 4.0,
+      "label": "比较满意"
+    },
+    "qg406": {
+      "value": 4.0,
+      "label": "比较满意"
+    }
+  },
+  "family": {
+    "fid20": {
+      "value": 211201.0
+    },
+    "fml_count": {
+      "value": 5.0
+    },
+    "child16n": {
+      "value": 1.0
+    },
+    "qm803": {
+      "value": 5.0
+    },
+    "qm1104": {
+      "value": 5.0,
+      "label": "十分同意"
+    },
+    "qq9010n": {
+      "value": 1.0
+    }
+  },
+  "location": {
+    "urban20": {
+      "value": 0.0,
+      "label": "乡村"
+    },
+    "provcd20": {
+      "value": 21.0
+    },
+    "province": {
+      "value": "21.0",
+      "label": "辽宁"
+    }
+  },
+  "psychological": {
+    "qm2016": {
+      "value": 10.0
+    },
+    "qn12012": {
+      "value": 5.0,
+      "label": "非常满意"
+    },
+    "qn416": {
+      "value": 3.0,
+      "label": "经常有（3-4天）"
+    },
+    "qn406": {
+      "value": 4.0,
+      "label": "大多数时候有（5-7天）"
+    }
+  },
+  "social": {
+    "qn1001": {
+      "value": 1.0,
+      "label": "大多数人是可以信任的"
+    },
+    "qn10021": {
+      "value": 10.0
+    },
+    "qn10022": {
+      "value": 9.0
+    },
+    "qn10024": {
+      "value": 0.0
+    },
+    "qu952": {
+      "value": 3.0
+    }
+  },
+  "enriched": {
+    "life_experience": {
+      "education": "由于家庭经济条件有限，她未能接受正规的学校教育，但她通过家庭自学掌握了一些基础的文化知识。",
+      "work": "她自小就帮助家人从事农业劳动，如种植、收割等。成年后，她成为村里的小店老板，负责日常的货物采购和销售。",
+      "family_life": "她与配偶结婚后，共同经营小店。他们育有一个孩子，生活虽不富裕但和谐。"
+    },
+    "personality": {
+      "characteristics": "她性格坚韧，乐观开朗，面对生活的困难总能保持积极的态度。",
+      "interests": "喜欢阅读、听音乐，业余时间喜欢在田间劳作，享受与大自然的亲近。",
+      "values": "重视家庭和亲情，认为诚实守信是做人的根本。"
+    },
+    "life_pressure": {
+      "work": "小店经营面临市场竞争和季节性波动，收入不稳定。",
+      "family": "家庭开支大，尤其是孩子的教育和医疗费用，给家庭带来一定的经济压力。",
+      "economic": "年收入虽然达到30000元，但扣除生活成本后，实际可支配收入有限。"
+    },
+    "social_class": {
+      "income": "年收入30000元，属于乡村地区的中等收入水平。",
+      "education": "文盲/半文盲，教育程度较低。",
+      "occupation": "小店老板，职业地位一般。",
+      "evaluation": "根据收入、教育和职业等因素，她属于乡村地区的中等社会阶层。"
+    },
+    "consumption_habits": {
+      "patterns": "消费习惯较为节俭，注重实用性和性价比。",
+      "preferences": "偏好购买当地农产品和基本生活必需品。"
+    },
+    "voucher_attitude": {
+      "views": "认为政府发放消费券是帮助农民减轻生活负担的好政策。",
+      "willingness": "愿意使用消费券购买生活必需品，以减轻家庭经济压力。"
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "agent_id": 210464103,
+  "demographic": {
+    "pid": {
+      "value": 210464103.0
+    },
+    "gender": {
+      "value": 1.0,
+      "label": "男"
+    },
+    "age": {
+      "value": 27.0
+    },
+    "w01": {
+      "value": 6.0,
+      "label": "大专"
+    },
+    "marriage_last": {
+      "value": 1.0,
+      "label": "未婚"
+    },
+    "qea0": {
+      "value": 1.0,
+      "label": "未婚"
+    }
+  },
+  "economic": {
+    "income": {
+      "value": 30000.0
+    },
+    "qm3012": {
+      "value": 5.0
+    },
+    "qg11": {
+      "value": 4000.0
+    },
+    "qg12": {
+      "value": 30000.0
+    },
+    "pd5total": {
+      "value": 0.0
+    },
+    "metotal": {
+      "value": 10.0
+    },
+    "qg401": {
+      "value": 4.0,
+      "label": "比较满意"
+    },
+    "qg406": {
+      "value": 4.0,
+      "label": "比较满意"
+    }
+  },
+  "family": {
+    "fid20": {
+      "value": 503688.0
+    },
+    "fml_count": {
+      "value": 1.0
+    },
+    "child16n": {
+      "value": 0.0
+    },
+    "qm803": {
+      "value": 5.0
+    },
+    "qm1104": {
+      "value": 4.0,
+      "label": "同意"
+    },
+    "qq9010n": {
+      "value": 1.0
+    }
+  },
+  "location": {
+    "urban20": {
+      "value": 1.0,
+      "label": "城镇"
+    },
+    "provcd20": {
+      "value": 21.0
+    },
+    "province": {
+      "value": "21.0",
+      "label": "辽宁"
+    }
+  },
+  "psychological": {
+    "qm2016": {
+      "value": 8.0
+    },
+    "qn12012": {
+      "value": 4.0,
+      "label": "满意"
+    },
+    "qn416": {
+      "value": 4.0,
+      "label": "大多数时候有（5-7天）"
+    },
+    "qn406": {
+      "value": 1.0,
+      "label": "几乎没有（不到一天）"
+    }
+  },
+  "social": {
+    "qn1001": {
+      "value": 1.0,
+      "label": "大多数人是可以信任的"
+    },
+    "qn10021": {
+      "value": 10.0
+    },
+    "qn10022": {
+      "value": 8.0
+    },
+    "qn10024": {
+      "value": 4.0
+    },
+    "qu952": {
+      "value": 4.0
+    }
+  },
+  "enriched": {
+    "life_experience": {
+      "education": {
+        "high_school": "就读于辽宁省一所普通高中，成绩中等",
+        "vocational_college": "考入辽宁省一所大专院校，学习市场营销专业"
+      },
+      "work": {
+        "first_job": "毕业后在一家小型广告公司担任市场营销助理",
+        "current_job": "经过几年的积累，升任市场营销专员，负责市场推广和客户关系维护"
+      },
+      "family": {
+        "parent": "与父母同住，家庭关系和谐，父母对其工作给予支持和鼓励"
+      }
+    },
+    "personality": {
+      "character": "性格内向，但善于沟通，工作认真负责，有较强的团队合作精神",
+      "interests": "业余时间喜欢阅读、旅游和健身，关注社会热点和行业动态",
+      "values": "重视个人成长和职业发展，注重家庭和谐，有社会责任感"
+    },
+    "life_pressure": {
+      "work": "工作压力大，需要不断学习新知识和技能，以满足不断变化的市场需求",
+      "family": "由于未婚，没有家庭负担，但担心未来结婚和购房的压力",
+      "economic": "收入稳定，但积蓄不多，对未来经济状况感到担忧"
+    },
+    "social_class": {
+      "income": "月收入4000元，年收入3万元，属于中等收入群体",
+      "education": "大专学历，在辽宁省城镇地区有一定竞争力",
+      "occupation": "市场营销专员，属于服务行业，职业稳定性较高"
+    },
+    "consumption_habits": {
+      "spending_patterns": "注重性价比，倾向于购买实用且质量好的商品",
+      "preferences": "偏爱国内外知名品牌，喜欢尝试新事物，但消费理性"
+    },
+    "voucher_attitude": {
+      "view": "认为消费券是政府刺激消费的有效手段，有利于缓解经济压力",
+      "intention": "愿意使用消费券购买必需品和电子产品，但对餐饮和旅游消费券的兴趣不高"
+    }
+  }
+}

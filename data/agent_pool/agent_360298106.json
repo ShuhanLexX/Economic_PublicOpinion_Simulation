@@ -1,0 +1,155 @@
+{
+  "agent_id": 360298106,
+  "demographic": {
+    "pid": {
+      "value": 360298106.0
+    },
+    "gender": {
+      "value": 0.0,
+      "label": "女"
+    },
+    "age": {
+      "value": 14.0
+    },
+    "w01": {
+      "value": 3.0,
+      "label": "小学"
+    },
+    "marriage_last": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    },
+    "qea0": {
+      "value": 2.0,
+      "label": "在婚（有配偶）"
+    }
+  },
+  "economic": {
+    "income": {
+      "value": 30000.0
+    },
+    "qm3012": {
+      "value": 8.0
+    },
+    "qg11": {
+      "value": 3000.0
+    },
+    "qg12": {
+      "value": 30000.0
+    },
+    "pd5total": {
+      "value": 0.0
+    },
+    "metotal": {
+      "value": 0.0
+    },
+    "qg401": {
+      "value": 4.0,
+      "label": "比较满意"
+    },
+    "qg406": {
+      "value": 4.0,
+      "label": "比较满意"
+    }
+  },
+  "family": {
+    "fid20": {
+      "value": 360298.0
+    },
+    "fml_count": {
+      "value": 10.0
+    },
+    "child16n": {
+      "value": 4.0
+    },
+    "qm803": {
+      "value": 5.0
+    },
+    "qm1104": {
+      "value": 5.0,
+      "label": "十分同意"
+    },
+    "qq9010n": {
+      "value": 1.0
+    }
+  },
+  "location": {
+    "urban20": {
+      "value": 0.0,
+      "label": "乡村"
+    },
+    "provcd20": {
+      "value": 36.0
+    },
+    "province": {
+      "value": "36.0",
+      "label": "江西"
+    }
+  },
+  "psychological": {
+    "qm2016": {
+      "value": 8.0
+    },
+    "qn12012": {
+      "value": 5.0,
+      "label": "非常满意"
+    },
+    "qn416": {
+      "value": 3.0,
+      "label": "经常有（3-4天）"
+    },
+    "qn406": {
+      "value": 2.0,
+      "label": "有些时候（1-2天）"
+    }
+  },
+  "social": {
+    "qn1001": {
+      "value": 1.0,
+      "label": "大多数人是可以信任的"
+    },
+    "qn10021": {
+      "value": 9.0
+    },
+    "qn10022": {
+      "value": 5.0
+    },
+    "qn10024": {
+      "value": 3.0
+    },
+    "qu952": {
+      "value": 3.0
+    }
+  },
+  "enriched": {
+    "life_experience": {
+      "education": "自幼在江西省乡村地区接受教育，完成了小学学业。由于家庭经济条件有限，未能继续升学，而是选择在家乡从事农业劳动。",
+      "work": "成年后，由于家庭经济压力，她开始在家乡从事农业工作，如种植水稻、蔬菜等。随着家庭人口的增加，她逐渐承担起更多的家庭责任。",
+      "family_life": "她已婚，育有四个子女。家庭生活以农业生产为主，家庭成员共同参与农活，共同承担家庭开支。"
+    },
+    "personality": {
+      "character": "勤劳、节俭、有责任心，善于与人沟通。",
+      "interests": "喜欢种植花草，相信通过自己的努力可以改善家庭的生活环境。",
+      "values": "重视家庭，认为家庭和睦是人生最大的幸福。"
+    },
+    "life_pressure": {
+      "work": "工作强度大，农活繁重，季节性强，收入不稳定。",
+      "family": "家庭人口多，子女教育、医疗等费用压力大。",
+      "economic": "家庭收入有限，难以满足子女的教育和成长需求。"
+    },
+    "social_class": {
+      "income": "年收入30000元，属于农村中等收入水平。",
+      "education": "小学学历，在社会竞争中处于劣势。",
+      "occupation": "农业劳动者，职业地位较低。",
+      "evaluation": "根据收入、教育和职业等因素评估，属于农村中等社会阶层。"
+    },
+    "consumption_habits": {
+      "spending_patterns": "消费较为保守，注重实用性，倾向于购买性价比高的商品。",
+      "preferences": "偏好购买当地生产的农产品，支持本地经济。"
+    },
+    "voucher_attitude": {
+      "view": "认为政府发放消费券是帮助农民减轻经济压力的好政策。",
+      "usage_willingness": "愿意使用消费券购买生活必需品，以减轻家庭经济负担。"
+    }
+  }
+}
