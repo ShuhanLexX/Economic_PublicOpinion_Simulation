@@ -7,12 +7,12 @@ import aiohttp
 import random
 from typing import Dict, Any, Union
 
-from config.config import (
+from config import (
     LLM_API_URL, LLM_API_KEY, LLM_DEFAULT_TEMPERATURE,
     MAX_CONCURRENT_REQUESTS, GLM_BASE_URL, GLM_API_KEY,
     GLM_MODEL_NAME, NEW_API_MODELS, LLM_MAX_RETRY, LLM_RETRY_DELAY
 )
-from utils.logger import logger
+from logger import logger
 
 
 # ──────────────────────────────────────────────

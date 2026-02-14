@@ -8,7 +8,7 @@ from datetime import datetime
 from typing import List, Dict, Any, Awaitable, TypeVar
 
 try:
-    from config.config import BATCH_DELAY_SECONDS
+    from config import BATCH_DELAY_SECONDS
 except ImportError:
     BATCH_DELAY_SECONDS = 2.0
 
@@ -30,7 +30,9 @@ def load_json(file_path: str, default=None):
 def save_json(data, file_path: str, ensure_dir: bool = True) -> bool:
     """保存数据为JSON文件"""
     if ensure_dir:
-        os.makedirs(os.path.dirname(file_path), exist_ok=True)
+        d = os.path.dirname(file_path)
+        if d:
+            os.makedirs(d, exist_ok=True)
     try:
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)

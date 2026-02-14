@@ -1,8 +1,8 @@
 """
 模型资源清理
 """
-from utils.logger import logger
-from models.llm_models import glm_model, load_balanced_model
+from logger import logger
+from llm_models import glm_model, load_balanced_model
 
 
 async def cleanup_model_resources():

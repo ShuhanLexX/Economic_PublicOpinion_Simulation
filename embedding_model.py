@@ -16,8 +16,8 @@ try:
 except ImportError:
     SENTENCE_TRANSFORMERS_AVAILABLE = False
 
-from config.config import DEFAULT_EMBEDDING_DIM, EMBEDDING_MODEL_PATH, EMBEDDING_MODEL_DIMENSION
-from utils.logger import logger
+from config import DEFAULT_EMBEDDING_DIM, EMBEDDING_MODEL_PATH, EMBEDDING_MODEL_DIMENSION
+from logger import logger
 
 
 def get_embedding_model() -> Tuple[int, object]:

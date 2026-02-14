@@ -10,9 +10,9 @@ from langchain_community.docstore import InMemoryDocstore
 from langchain_community.vectorstores import FAISS
 from langchain.schema import Document
 
-from utils.logger import logger
-from config.config import MEMORY_REFLECT_INTERVAL, MEMORY_RECENT_LENGTH, MEMORY_INSIGHTS_COUNT
-from models.llm_models import glm_model
+from logger import logger
+from config import MEMORY_REFLECT_INTERVAL, MEMORY_RECENT_LENGTH, MEMORY_INSIGHTS_COUNT
+from llm_models import glm_model
 
 
 class TimeWeightedRetriever:

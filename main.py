@@ -8,18 +8,18 @@ import argparse
 from typing import Dict, Any
 from datetime import datetime
 
-from config.config import (
+from config import (
     SIMULATION_MONTHS, VOUCHER_START_MONTH, VOUCHER_END_MONTH,
     AGENT_POOL_DIR, RESULT_DIR, AGENT_COUNT,
     USE_SOCIAL_SYSTEM, USE_INIT_SOCIAL_POSTS, RANDOM_SEED, MAX_CONCURRENT_REQUESTS
 )
-from utils.logger import logger
-from utils.utils import run_concurrently, save_json
-from utils.model_utils import cleanup_model_resources
-from models.embedding_model import get_embedding_model
-from agents.agent import Agent, load_agents
-from systems.social_system import SocialSystem
-from systems.economic_system import EconomicSystem
+from logger import logger
+from utils import run_concurrently, save_json
+from model_utils import cleanup_model_resources
+from embedding_model import get_embedding_model
+from agent import Agent, load_agents
+from social_system import SocialSystem
+from economic_system import EconomicSystem
 
 
 async def initialize_systems(embedding_dim, embedding_model, agent_count=None):

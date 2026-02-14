@@ -8,12 +8,12 @@ import re
 from typing import Dict, Any, List, Optional
 from pydantic import BaseModel, Field
 
-from agents.memory import AgentMemory
-from utils.logger import logger
-from utils.utils import load_json, save_json
-from config.config import AGENT_POOL_DIR, CURRENT_TIME, BASE_CONSUMPTION_RATE, BASE_WORK_WILLINGNESS
-from models.llm_models import glm_model, call_llm_model, load_balanced_model
-from prompts.agent_prompts import AGENT_DECISION_PROMPT, SENTIMENT_ANALYSIS_PROMPT
+from memory import AgentMemory
+from logger import logger
+from utils import load_json, save_json
+from config import AGENT_POOL_DIR, CURRENT_TIME, BASE_CONSUMPTION_RATE, BASE_WORK_WILLINGNESS
+from llm_models import glm_model, call_llm_model, load_balanced_model
+from agent_prompts import AGENT_DECISION_PROMPT, SENTIMENT_ANALYSIS_PROMPT
 
 
 class AgentDecision(BaseModel):

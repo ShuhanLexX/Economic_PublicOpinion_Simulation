@@ -6,12 +6,12 @@ from pathlib import Path
 from datetime import datetime
 
 # ============ 路径配置 ============
-BASE_DIR = Path(__file__).parent.parent.parent
+BASE_DIR = Path(__file__).parent
 DATA_DIR = os.path.join(BASE_DIR, "data")
 AGENT_POOL_DIR = os.path.join(DATA_DIR, "agent_pool")
 RESULT_DIR = os.path.join(DATA_DIR, "results")
 MODEL_DIR = os.path.join(DATA_DIR, "models")
-LOG_DIR = os.path.join(BASE_DIR, "src", "logs")
+LOG_DIR = os.path.join(BASE_DIR, "logs")
 
 for dir_path in [DATA_DIR, AGENT_POOL_DIR, RESULT_DIR, MODEL_DIR, LOG_DIR]:
     os.makedirs(dir_path, exist_ok=True)

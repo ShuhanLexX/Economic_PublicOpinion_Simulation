@@ -8,9 +8,9 @@ from typing import Dict, List, Optional
 from datetime import datetime
 from pydantic import BaseModel
 
-from utils.logger import logger
-from utils.utils import load_json, save_json
-from config.config import DATA_DIR, USE_INIT_SOCIAL_POSTS
+from logger import logger
+from utils import load_json, save_json
+from config import DATA_DIR, USE_INIT_SOCIAL_POSTS
 
 
 class SocialPost(BaseModel):
@@ -104,8 +104,7 @@ class SocialSystem:
     # ──── 政策信息 ────
 
     def get_policy_info(self, month: int) -> str:
-        project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-        path = os.path.join(project_root, 'data', 'social_data', 'policy_news.json')
+        path = os.path.join(DATA_DIR, 'social_data', 'policy_news.json')
         try:
             with open(path, 'r', encoding='utf-8') as f:
                 data = json.load(f)

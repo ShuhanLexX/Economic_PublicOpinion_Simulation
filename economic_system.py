@@ -6,9 +6,9 @@ import numpy as np
 from typing import Dict, List, Any
 from datetime import datetime
 
-from utils.logger import logger
-from utils.utils import load_json, save_json, truncate_float
-from config.config import RESULT_DIR, VOUCHER_AMOUNT, VOUCHER_START_MONTH, VOUCHER_END_MONTH
+from logger import logger
+from utils import load_json, save_json, truncate_float
+from config import RESULT_DIR, VOUCHER_AMOUNT, VOUCHER_START_MONTH, VOUCHER_END_MONTH
 
 
 class EconomicSystem:
