@@ -12,24 +12,22 @@
 ## 项目结构
 
 ```
-├── src/
-│   ├── main.py                  # 主程序入口
-│   ├── config/config.py         # 全局配置
-│   ├── agents/
-│   │   ├── agent.py             # 智能体定义与LLM决策
-│   │   └── memory.py            # 记忆模块（FAISS向量检索 + 反思）
-│   ├── models/
-│   │   ├── llm_models.py        # LLM接口（含负载均衡）
-│   │   └── embedding_model.py   # Embedding模型加载
-│   ├── systems/
-│   │   ├── social_system.py     # 舆论子系统
-│   │   └── economic_system.py   # 经济子系统
-│   ├── prompts/agent_prompts.py # Prompt模板
-│   └── utils/                   # 日志、工具函数
+├── main.py                      # 主程序入口
+├── config.py                    # 全局配置
+├── agent.py                     # 智能体定义与LLM决策
+├── memory.py                   # 记忆模块（FAISS向量检索 + 反思）
+├── llm_models.py               # LLM接口（含负载均衡）
+├── embedding_model.py          # Embedding模型加载
+├── social_system.py            # 舆论子系统
+├── economic_system.py          # 经济子系统
+├── agent_prompts.py            # Prompt模板
+├── logger.py                   # 日志
+├── model_utils.py              # 模型资源清理
+├── utils.py                    # 通用工具函数
 ├── data/
-│   ├── agent_pool/              # 智能体档案（JSON）
-│   └── social_data/             # 热搜新闻与政策信息
-├── population/                  # 人口数据模板
+│   ├── agent_pool/             # 智能体档案（JSON）
+│   └── social_data/            # 热搜新闻与政策信息
+├── population/                 # 人口数据模板
 ├── requirements.txt
 └── README.md
 ```
@@ -56,13 +54,10 @@ export EMBEDDING_MODEL_PATH="sentence-transformers/all-MiniLM-L6-v2"  # 本地�
 ### 3. 运行模拟
 
 ```bash
-cd src
 python main.py --agents 100 --months 13
 ```
 
 - `--agents`：参与模拟的智能体数量（默认1000）
 - `--months`：模拟月数（默认13）
 
-模拟结果（经济报告、情感统计、智能体状态等）将保存在 `data/results/` 下按时间戳命名的目录中。
-"# Economic_PublicOpinion_Simulation" 
-"# Economic_PublicOpinion_Simulation" 
+模拟结果（经济报告、情感统计、智能体状态等）将保存在 `data/results/` 下按时间戳命名的目录中。 
