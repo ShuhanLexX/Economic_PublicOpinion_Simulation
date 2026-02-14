@@ -45,3 +45,4 @@ Thumbs.db
 desktop.ini
 
 population/population_pool/*.json
+data/agent_pool/*.json
